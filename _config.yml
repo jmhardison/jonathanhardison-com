@@ -1,6 +1,6 @@
 # Site settings
 title: www.JonathanHardison.com
-email: jmh [at] jonathanhardison [dot] com
+email: bounce@jonathanhardison.com
 description: > # this means to ignore newlines until "baseurl:"
               Crazy Man Cage
 baseurl: "" # the subpath of your site, e.g. /blog/
