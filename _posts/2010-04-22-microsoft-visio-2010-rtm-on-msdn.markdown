@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Microsoft Visio 2010 RTM on MSDN!
+author:
+  display_name: Jonathan
+  login: jmhadmin
+  email: jmh@jonathanhardison.com
+  url: ''
+author_login: jmhadmin
+author_email: jmh@jonathanhardison.com
+wordpress_id: 455
+wordpress_url: http://www.jonathanhardison.com/?p=455
+date: '2010-04-22 09:54:47 -0500'
+date_gmt: '2010-04-22 15:54:47 -0500'
+categories:
+- Software
+- Windows
+tags:
+- LinkedIn
+comments: []
+---
+<p>Turning into a busy morning for my Internet connection.</p>
+<p>Microsoft released Visio 2010 on MSDN.</p>
