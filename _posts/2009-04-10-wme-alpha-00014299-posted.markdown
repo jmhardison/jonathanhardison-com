@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: WME Alpha 0.0.0.14299 Posted
+author:
+  display_name: Jonathan
+  login: jmhadmin
+  email: jmh@jonathanhardison.com
+  url: ''
+author_login: jmhadmin
+author_email: jmh@jonathanhardison.com
+wordpress_id: 181
+wordpress_url: http://www.jonathanhardison.com/?p=181
+date: '2009-04-10 08:54:57 -0500'
+date_gmt: '2009-04-10 14:54:57 -0500'
+categories:
+- Uncategorized
+tags:
+- LinkedIn
+comments: []
+---
+<p><img class="size-full wp-image-182 alignleft" title="wmeicon1" src="http:&#47;&#47;www.jonathanhardison.com&#47;wp-content&#47;uploads&#47;2009&#47;04&#47;wmeicon1.png" alt="wmeicon1" width="128" height="128" &#47;><br />
+I have uploaded the alpha version of a batch audio splitter I'm working on. Nothing too fancy about it, and it does have bugs right now but it's purpose is quite simple. Take in a directory containing audio files (right now only supporting .WAV files) and split them to multiple files based on the track markers embedded in the file. Each file created will have the first section of a file name combined with the track name as it's file name.<br />
+<em>(Example: testwave - 1.wav can become testwave trackname.wav)<&#47;em></p>
+<p><em><a href="http:&#47;&#47;www.jonathanhardison.com&#47;index.php&#47;wme&#47;">Jump to Page<&#47;a><&#47;em></p>
+<p><span style="color: #ff0000;">Use at your own risk.<&#47;span></p>

@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: nook Update v1.1.0
+author:
+  display_name: Jonathan
+  login: jmhadmin
+  email: jmh@jonathanhardison.com
+  url: ''
+author_login: jmhadmin
+author_email: jmh@jonathanhardison.com
+wordpress_id: 364
+wordpress_url: http://www.jonathanhardison.com/?p=364
+date: '2009-12-21 09:26:54 -0600'
+date_gmt: '2009-12-21 15:26:54 -0600'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>B&amp;N has released an update for the nook, bringing the freshly released device to 1.1.0. Officially, it is not NOT a v1.0 device. So begins the rants and raves.</p>
+<p>Anyways, the update actually seems to have greatly improved performance of the device from menu access to page turns. Although an actual 'update notes' has not been released by B&amp;N yet, there is speculation of what it did do.</p>
+<p>Some notable items are page turns speed, random crashing of books, time display, and the dreaded 'Formatting'.</p>
