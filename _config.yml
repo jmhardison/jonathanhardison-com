@@ -3,7 +3,7 @@ title: www.JonathanHardison.com
 email: jmh [at] jonathanhardison [dot] com
 description: > # this means to ignore newlines until "baseurl:"
               Crazy Man Cage
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.jonathanhardison.com" # the base hostname & protocol for your site
 twitter_username: jhardison
 github_username:  jmhardison
