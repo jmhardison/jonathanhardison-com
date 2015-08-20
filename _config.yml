@@ -10,3 +10,5 @@ github_username:  jmhardison
 
 # Build settings
 markdown: kramdown
+
+exclude: [vendor]
