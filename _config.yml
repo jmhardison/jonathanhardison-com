@@ -11,4 +11,11 @@ github_username:  jmhardison
 # Build settings
 markdown: kramdown
 
+#highlighting
+highlighter: Rouge
+
+#pagination
+paginate: 15
+
+#excludes
 exclude: [vendor]
