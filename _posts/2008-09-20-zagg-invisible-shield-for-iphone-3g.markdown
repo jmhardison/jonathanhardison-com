@@ -30,7 +30,10 @@ comments:
     also don&rsquo;t like [. . . ]&#8230;I just ordered the invisible Shield for my
     iPhone&#8230;. [...]"
 ---
-<p><a href="http:&#47;&#47;www.zagg.com"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="148" alt="image" src="http:&#47;&#47;jonathanhardison.com&#47;wp-content&#47;uploads&#47;2008&#47;09&#47;image1.png" width="244" border="0"><&#47;a> <&#47;p>
-<p>I just ordered the invisible Shield for my iPhone. As soon as it arrives I will be sure to post the findings on it's ease of install and usefulness.<&#47;p>
-<p>I just love how thin the iPhone is, and hate the idea of putting a case on it to make it larger. I also don't like the thin rubber wraps, as I have one for my Treo 800w and it drags my pocket lining out all the time.<&#47;p>
-<p>This product is also said to provide the user a better grip, so I'll be sure to see how it treats my pocket lining.<&#47;p></p>
+[![image]({{site.base}}/imagecontent/2008/09/image1.png)](http://www.zagg.com){:target="_blank"}
+
+I just ordered the invisible Shield for my iPhone. As soon as it arrives I will be sure to post the findings on it’s ease of install and usefulness.
+
+I just love how thin the iPhone is, and hate the idea of putting a case on it to make it larger. I also don’t like the thin rubber wraps, as I have one for my Treo 800w and it drags my pocket lining out all the time.
+
+This product is also said to provide the user a better grip, so I’ll be sure to see how it treats my pocket lining.

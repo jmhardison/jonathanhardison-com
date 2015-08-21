@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>Just a site maintenance note...</p>
-<p>I completed the WordPress 2.6.3 upgrade on my site today, no downtime was needed and everything appears to be working correctly.</p>
-<p><a href="http:&#47;&#47;www.wordpress.com">www.wordpress.com<&#47;a> has the details on this available upgrade.</p>
+Just a site maintenance note…
+
+I completed the WordPress 2.6.3 upgrade on my site today, no downtime was needed and everything appears to be working correctly.
+
+[www.wordpress.com](http://www.wordpress.com){:target="_blank"} has the details on this available upgrade.

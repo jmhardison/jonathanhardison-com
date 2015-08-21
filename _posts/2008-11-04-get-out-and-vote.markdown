@@ -20,6 +20,6 @@ tags:
 - LinkedIn
 comments: []
 ---
-<p><img class="alignnone size-medium wp-image-86" title="vote" src="http:&#47;&#47;jonathanhardison.com&#47;wp-content&#47;uploads&#47;2008&#47;11&#47;vote-300x298.jpg" alt="" width="300" height="298" &#47;></p>
-<p>Time to go vote America! Get out there and make<br />
-the country hear your voice.</p>
+![vote]({{site.base}}/imagecontent/2008/11/vote-300x298.jpg)
+
+Time to go vote America! Get out there and make the country hear your voice.

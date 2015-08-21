@@ -20,5 +20,6 @@ tags:
 - LinkedIn
 comments: []
 ---
-<p><a href="http:&#47;&#47;www.cisco.com&#47;cdc_content_elements&#47;flash&#47;netsol&#47;sp&#47;getready&#47;index.html?POSITION=banner&amp;COUNTRY_SITE=us&amp;CAMPAIGN=GetReady&amp;CREATIVE=Corner+Banner+Ad+go&#47;getready&amp;REFERRING_SITE=CISCO%2ECOM+INDEX" target="_blank">Cisco's teaser site.<&#47;a></p>
-<p>More than likely some new class of switch, but keep an eye out on their site on the 11th. Go sign up now for notifications.</p>
+[Cisco's teaser site.](http://www.cisco.com/cdc_content_elements/flash/netsol/sp/getready/index.html?POSITION=banner&amp;COUNTRY_SITE=us&amp;CAMPAIGN=GetReady&amp;CREATIVE=Corner+Banner+Ad+go/getready&amp;REFERRING_SITE=CISCO%2ECOM+INDEX){:target="_blank"}
+
+More than likely some new class of switch, but keep an eye out on their site on the 11th. Go sign up now for notifications.

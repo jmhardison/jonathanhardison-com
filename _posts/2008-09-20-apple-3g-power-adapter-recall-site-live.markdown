@@ -19,7 +19,12 @@ categories:
 tags: []
 comments: []
 ---
-<p>The recall site is now live for people to submit their claims online.</p>
-<p>This is great for me since I don't live close to an Apple Store, and I really don't like visiting AT&amp;T for this.</p>
-<p><a href="https:&#47;&#47;supportform.apple.com&#47;200809&#47;" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" src="http:&#47;&#47;jonathanhardison.com&#47;wp-content&#47;uploads&#47;2008&#47;09&#47;image-thumb.png" border="0" alt="image" width="243" height="244" &#47;><&#47;a></p>
-<p>Those with the 3G should be making those claims now at the <a href="https:&#47;&#47;supportform.apple.com&#47;200809&#47;" target="_blank">support page<&#47;a>!</p>
+The recall site is now live for people to submit their claims online.
+
+This is great for me since I don’t live close to an Apple Store, and I really don’t like visiting AT&T for this.
+
+[Link](https://supportform.apple.com/200809/){:target="_blank"}
+
+Those with the 3G should be making those claims now at the [support page](https://supportform.apple.com/200809/){:target="_blank"}
+
+![image]({{site.base}}/imagecontent/2008/09/image-thumb.png)

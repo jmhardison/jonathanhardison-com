@@ -20,7 +20,11 @@ tags:
 - LinkedIn
 comments: []
 ---
-<p><a href="http:&#47;&#47;None"><img class="alignleft size-full wp-image-65" title="capturegoogleearth" src="http:&#47;&#47;jonathanhardison.com&#47;wp-content&#47;uploads&#47;2008&#47;10&#47;capturegoogleearth.jpg" alt="" width="322" height="459" &#47;><&#47;a>Google has finally released the Google Earth application to iPhone users. This release brings the amazing features of Google Earth to the palm of your hand.</p>
-<p>Nothing like a free app like this to keep you mindlessly wasting the day looking at all the cool places in the world.</p>
-<p>This release has support to find your location, view Geo Tagged pictures, Wiki articles, as well as motion controlled 3d views.</p>
-<p><a href="http:&#47;&#47;googleblog.blogspot.com&#47;2008&#47;10&#47;introducing-google-earth-for-iphone.html" target="_blank">Check out their blog for more details<&#47;a>.</p>
+![captureearth]({{site.base}}/imagecontent/2008/10/capturegoogleearth.jpg)
+Google has finally released the Google Earth application to iPhone users. This release brings the amazing features of Google Earth to the palm of your hand.
+
+Nothing like a free app like this to keep you mindlessly wasting the day looking at all the cool places in the world.
+
+This release has support to find your location, view Geo Tagged pictures, Wiki articles, as well as motion controlled 3d views.
+
+[More details.](http://googleblog.blogspot.com/2008/10/introducing-google-earth-for-iphone.html){:target="_blank"}
