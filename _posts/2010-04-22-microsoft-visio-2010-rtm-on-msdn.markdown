@@ -21,5 +21,5 @@ tags:
 - LinkedIn
 comments: []
 ---
-<p>Turning into a busy morning for my Internet connection.</p>
-<p>Microsoft released Visio 2010 on MSDN.</p>
+Turning into a busy morning for my Internet connection.
+Microsoft released Visio 2010 on MSDN.

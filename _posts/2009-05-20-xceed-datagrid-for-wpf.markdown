@@ -20,6 +20,8 @@ tags:
 - LinkedIn
 comments: []
 ---
-<p>I registered for the free Xceed DataGrid for WPF. There&rsquo;s only 25 days left to do it. <a href="http:&#47;&#47;xceed.com&#47;freegrid">http:&#47;&#47;xceed.com&#47;freegrid<&#47;a></p>
-<p>Xceed DataGrid is an awesome grid component for WPF. I've tinkered with it for a while and love it. In fact it is in use in one of my projects called DCTracker.</p>
-<p>Hurry and be a good developer... or crazy pack rat and go register!</p>
+I registered for the free Xceed DataGrid for WPF. There's only 25 days left to do it. [link](http://xceed.com/freegrid">http://xceed.com/freegrid){:target="_blank"}
+
+Xceed DataGrid is an awesome grid component for WPF. I've tinkered with it for a while and love it. In fact it is in use in one of my projects called DCTracker.
+
+Hurry and be a good developer... or crazy pack rat and go register!

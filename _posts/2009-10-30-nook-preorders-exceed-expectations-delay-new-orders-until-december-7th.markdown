@@ -19,4 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>The nook has received such high demand that the preorders placed on or after today 30th of October, will not ship until the 7th of December instead of the 30th of November. That is still not a long time to wait, but I&rsquo;m sure glad I preordered the day of announcement!<&#47;p></p>
+The nook has received such high demand that the preorders placed on or after today 30th of October, will not ship until the 7th of December instead of the 30th of November. That is still not a long time to wait, but I'm sure glad I preordered the day of announcement!

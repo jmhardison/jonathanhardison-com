@@ -19,7 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<p>I've recompiled WME with x86 set instead of x64. I was running it 64 bit on my dev machine during some bouts of testing in .Net 4 and simply forgot to reset it.</p>
-<p>This has been corrected and should now run correctly on all systems.</p>
-<p>I've also uploaded the "Updater" and will show for any previous client using the correct updater. Worse case, simply uninstall and download the new copy. (It also includes Updater v1.0.2.1)</p>
-<p>Remember if you want to convert to MP3, you will need to obtain the lame.exe and place it into the install directory.</p>
+I've recompiled WME with x86 set instead of x64. I was running it 64 bit on my dev machine during some bouts of testing in .Net 4 and simply forgot to reset it.
+This has been corrected and should now run correctly on all systems.
+I've also uploaded the "Updater" and will show for any previous client using the correct updater. Worse case, simply uninstall and download the new copy. (It also includes Updater v1.0.2.1)
+Remember if you want to convert to MP3, you will need to obtain the lame.exe and place it into the install directory.

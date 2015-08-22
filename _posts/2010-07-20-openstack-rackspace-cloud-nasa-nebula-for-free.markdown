@@ -20,7 +20,8 @@ categories:
 tags: []
 comments: []
 ---
-<p><img class="alignnone size-full wp-image-547" title="Capture" src="http:&#47;&#47;www.jonathanhardison.com&#47;wp-content&#47;uploads&#47;2010&#47;07&#47;Capture.png" alt="" width="171" height="58" &#47;></p>
-<p>Wow, just wow!</p>
-<p>Rackspacecloud.com is an outstanding hosting provider for virtual servers.... and now, they have gone open source.</p>
-<p>Check out OpenStack.com and dive into a brave new world. Bout time somebody did this!</p>
+![img]({{site.base}}/imagecontent/2010/07/Capture.png)
+
+Wow, just wow!
+Rackspacecloud.com is an outstanding hosting provider for virtual servers.... and now, they have gone open source.
+Check out OpenStack.com and dive into a brave new world. Bout time somebody did this!

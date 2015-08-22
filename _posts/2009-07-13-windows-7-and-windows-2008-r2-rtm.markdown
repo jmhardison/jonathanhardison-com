@@ -20,4 +20,4 @@ tags:
 - LinkedIn
 comments: []
 ---
-<p>Bink.nu is reporting that Windows 7 and Windows 2008 R2 have gone RTM. Keep an eye out for them to post on MSDN shortly.</p>
+Bink.nu is reporting that Windows 7 and Windows 2008 R2 have gone RTM. Keep an eye out for them to post on MSDN shortly.

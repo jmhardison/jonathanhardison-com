@@ -21,4 +21,4 @@ tags:
 - LinkedIn
 comments: []
 ---
-<p>Done yet? Nope! SharePoint 2010 RTM has now been released on MSDN.</p>
+Done yet? Nope! SharePoint 2010 RTM has now been released on MSDN.

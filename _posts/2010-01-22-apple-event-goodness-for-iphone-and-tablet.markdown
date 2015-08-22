@@ -19,7 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<p>The Apple event is coming up in a few days... and rumor mills are hard at work.</p>
-<p>Items I find interesting....</p>
-<p>1. iPhone OS 4.0: Supports 3G and 3GS. Will have a revamped UI and more multitasking support.</p>
-<p>2. Apple Tablet... rumor has it it resembles an iPhone 1, smashed by a rolling pin.</p>
+The Apple event is coming up in a few days... and rumor mills are hard at work.
+Items I find interesting....
+1. iPhone OS 4.0: Supports 3G and 3GS. Will have a revamped UI and more multitasking support.
+2. Apple Tablet... rumor has it it resembles an iPhone 1, smashed by a rolling pin.

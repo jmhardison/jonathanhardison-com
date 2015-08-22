@@ -19,11 +19,17 @@ categories:
 tags: []
 comments: []
 ---
-<p><img class="size-medium wp-image-1180 alignleft" alt="World_IPv6_launch_badge_512" src="http:&#47;&#47;www.jonathanhardison.com&#47;wp-content&#47;uploads&#47;2012&#47;07&#47;World_IPv6_launch_badge_512-300x300.png" width="300" height="300" &#47;></p>
-<p>Ok so my site wasn't able to participate last year, nor has it been dual-stacked.... yet. But last year I did participate in the world wide test using a software tunnel client. Yesterday I have upgraded my home network to include an IPv6 tunnel with HE.net and have fully implemented IPv6&#47;IPv4 dual stack in home.</p>
-<p>I'm currently working on either transitioning my web site to a host that supports IPv6, or I will put it behind something like CloudFlare that will provide a front end IPv6 listener and direct it to the back-end IPv4 server.</p>
-<p>I'll post my setup here some day... but the high level for now is this:</p>
-<p>Uverse GW (inside router set to dmz) -> Vyatta Router 6.4 esxi -> internal vlan's.<br />
-The Vyatta Router handles the tunnel to HE.net in addition to the IPv4 stack. All internal VLAN's are then addressed with their own &#47;64's. (Trying to keep in line with the RFC's, but to</p>
-<p>subnet it down beyond that is about wasted effort. See this <a href="http:&#47;&#47;archive.apnic.net&#47;meetings&#47;26&#47;program&#47;apops&#47;matsuzaki-ipv6-p2p.pdf">link<&#47;a>.)</p>
-<p>As for my website itself, I may not have been able to dual stack the servers themselves, but I have managed to get IPv6 accessibility by using the services provided by <a title="CloudFlare" href="http:&#47;&#47;www.cloudflare.com" target="_blank">CloudFlare.com<&#47;a>. With the help of CloudFlare, not only have I gained IPv6 but I have also gained Geo-Location content serving through their globally distributed cache acceleration network.</p>
+![img]({{site.base}}/imagecontent2012/07/World_IPv6_launch_badge_512-300x300.png)
+
+Ok so my site wasn't able to participate last year, nor has it been dual-stacked.... yet. But last year I did participate in the world wide test using a software tunnel client. Yesterday I have upgraded my home network to include an IPv6 tunnel with HE.net and have fully implemented IPv6/IPv4 dual stack in home.
+
+I'm currently working on either transitioning my web site to a host that supports IPv6, or I will put it behind something like CloudFlare that will provide a front end IPv6 listener and direct it to the back-end IPv4 server.
+
+I'll post my setup here some day... but the high level for now is this:
+Uverse GW (inside router set to dmz) -> Vyatta Router 6.4 esxi -> internal vlan's.
+
+The Vyatta Router handles the tunnel to HE.net in addition to the IPv4 stack. All internal VLAN's are then addressed with their own /64's. (Trying to keep in line with the RFC's, but to subnet it down beyond that is about wasted effort. See this [link](http://archive.apnic.net/meetings/26/program/apops/matsuzaki-ipv6-p2p.pdf){:target="_blank"}
+
+As for my website itself, I may not have been able to dual stack the servers themselves, but I have managed to get IPv6 accessibility by using the services provided by [CloudFlare](http://www.cloudflare.com){:target="_blank"}
+
+With the help of CloudFlare, not only have I gained IPv6 but I have also gained Geo-Location content serving through their globally distributed cache acceleration network.

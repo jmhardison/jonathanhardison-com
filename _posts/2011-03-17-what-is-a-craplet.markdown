@@ -19,5 +19,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>Craplet - An inferior, cheaply produced, cheaply sold device in the form factor of a tablet computer. Meant to compete with the now infamous iPad, but in the same stroke vastly undercut the price. These devices can come so cheap you might just find them mixed in with gum at the checkout line in Walmart.</p>
-<p>Please, don't fall for the craplets! Show the world you want a real tablet!</p>
+Craplet - An inferior, cheaply produced, cheaply sold device in the form factor of a tablet computer. Meant to compete with the now infamous iPad, but in the same stroke vastly undercut the price. These devices can come so cheap you might just find them mixed in with gum at the checkout line in Walmart.
+
+Please, don't fall for the craplets! Show the world you want a real tablet!

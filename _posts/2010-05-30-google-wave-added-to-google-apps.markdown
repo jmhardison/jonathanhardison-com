@@ -20,4 +20,4 @@ tags:
 - LinkedIn
 comments: []
 ---
-<p>I didn't even notice this one pop in, but it appears that Google has added WAVE to the Google Apps subscriber applications. In case you missed it too, head on over to your Google Apps domain administration and add it to your dashboard!</p>
+I didn't even notice this one pop in, but it appears that Google has added WAVE to the Google Apps subscriber applications. In case you missed it too, head on over to your Google Apps domain administration and add it to your dashboard!

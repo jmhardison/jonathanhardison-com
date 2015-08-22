@@ -19,7 +19,5 @@ categories:
 tags: []
 comments: []
 ---
-<p>Head over to macrumors and check out all that is happening.</p>
-<p>iPhone 3G S, Mac OS X10.6, new laptops, iPhone OS 3.0, nom nom nom.</p>
-<p>Seriously, run on over there and read!</p>
-<p><a href="http:&#47;&#47;www.macrumors.com">www.macrumors.com<&#47;a></p>
+Head over to macrumors and check out all that is happening.
+iPhone 3G S, Mac OS X10.6, new laptops, iPhone OS 3.0, nom nom nom.

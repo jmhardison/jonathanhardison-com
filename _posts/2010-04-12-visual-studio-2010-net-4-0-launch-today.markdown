@@ -19,5 +19,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>That's right folks, the launch of VS2010 and .NET 4.0 have ran the gauntlet. 10am PST is their official launch time, although the blogs are already pointing to it's availability for purchase. MSDN subscribers watch for it to post at 10am PST.</p>
-<p>Lovely monday!</p>
+That's right folks, the launch of VS2010 and .NET 4.0 have ran the gauntlet. 10am PST is their official launch time, although the blogs are already pointing to it's availability for purchase. MSDN subscribers watch for it to post at 10am PST.
+
+Lovely monday!

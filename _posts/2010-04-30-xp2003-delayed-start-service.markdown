@@ -19,6 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<p>Man I haven't had to do this in a while since Vista and Windows 7 all have the Automatic (Delayed) start option for services. But in case you need to delay start a process on xp&#47;2003. Find the service in HKEY_LOCAL_MACHINESYSTEMCurrentControlSetServices<Service name></p>
-<p>Add a new value (REG_MULTI_SZ) and call it "DependOnService" without quotes.<br />
-Next put the value as the service you want to delay the start until after. The processes normally used are Spooler and Messenger.</p>
+Man I haven't had to do this in a while since Vista and Windows 7 all have the Automatic (Delayed) start option for services. But in case you need to delay start a process on xp/2003. Find the service in
+ HKEY_LOCAL_MACHINESYSTEMCurrentControlSetServices<Service name>
+Add a new value (REG_MULTI_SZ) and call it "DependOnService" without quotes.<br />
+Next put the value as the service you want to delay the start until after. The processes normally used are Spooler and Messenger.

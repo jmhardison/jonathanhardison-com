@@ -19,6 +19,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>Working with the Ribbon Bar (Fluent) in a rebuild of an app I wrote, I am toying with it being more than simply the control doc for buttons and such above a single form. I&rsquo;m expanding it to be the doc for user input floating above independent grids displaying content for the current tab item in the ribbon. Why? BECAUSE I CAN! Buwaa aa aa aaaaa.<&#47;p>
-<p>&#160;<&#47;p>
-<p><a href="http:&#47;&#47;www.jonathanhardison.com&#47;wp-content&#47;uploads&#47;2010&#47;03&#47;Capture.png"><img style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px" title="Capture" border="0" alt="Capture" src="http:&#47;&#47;www.jonathanhardison.com&#47;wp-content&#47;uploads&#47;2010&#47;03&#47;Capture_thumb.png" width="460" height="407" &#47;><&#47;a><&#47;p></p>
+Working with the Ribbon Bar (Fluent) in a rebuild of an app I wrote, I am toying with it being more than simply the control doc for buttons and such above a single form. I'm expanding it to be the doc for user input floating above independent grids displaying content for the current tab item in the ribbon. Why? BECAUSE I CAN! Buwaa aa aa aaaaa.
+
+![ribbon]({{site.base}}/imagecontent/2010/03/Capture.png)

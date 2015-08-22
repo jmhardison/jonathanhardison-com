@@ -19,7 +19,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>So this is the last weekend open beta of The Secret World, and so far I'm happy with how it came out and my decision to purchase lifetime is well met.</p>
-<p>&nbsp;</p>
-<p>For anyone else out there that loves 'thinking' games that offer more than just point and click, give this one a try!</p>
-<p>&nbsp;</p>
+So this is the last weekend open beta of The Secret World, and so far I'm happy with how it came out and my decision to purchase lifetime is well met.
+
+For anyone else out there that loves 'thinking' games that offer more than just point and click, give this one a try!

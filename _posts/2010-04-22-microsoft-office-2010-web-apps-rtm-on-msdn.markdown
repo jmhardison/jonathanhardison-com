@@ -21,4 +21,4 @@ tags:
 - LinkedIn
 comments: []
 ---
-<p>Finally: Microsoft Office 2010 Web Apps RTM has been released on MSDN!</p>
+Finally: Microsoft Office 2010 Web Apps RTM has been released on MSDN!

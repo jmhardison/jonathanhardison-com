@@ -21,5 +21,4 @@ tags:
 - LinkedIn
 comments: []
 ---
-<p>That's right folks, the WWDC 2011 Session Videos are now available to the masses! Get signed in and get downloading the goodness!</p>
-<p><a href="http:&#47;&#47;developer.apple.com&#47;videos&#47;wwdc&#47;2011&#47;">http:&#47;&#47;developer.apple.com&#47;videos&#47;wwdc&#47;2011&#47;<&#47;a></p>
+That's right folks, the WWDC 2011 Session Videos are now available to the masses! Get signed in and get downloading the goodness!

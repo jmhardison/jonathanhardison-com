@@ -19,5 +19,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>B&amp;N nook begins shipping today for those who pre-ordered early. I was one of those lucky people. So to add to the wonderful intensity of this purchase, I have my nook brochure available from the local B&amp;N. My plan is as soon as I get the unit, I will do an unboxing and take shots of it in comparison to the brochure. Not an important task, but would be nice for those who are curious how the unit stacks up against the paper version.</p>
-<p>Stay tuned!</p>
+B&N nook begins shipping today for those who pre-ordered early. I was one of those lucky people. So to add to the wonderful intensity of this purchase, I have my nook brochure available from the local B&N. My plan is as soon as I get the unit, I will do an unboxing and take shots of it in comparison to the brochure. Not an important task, but would be nice for those who are curious how the unit stacks up against the paper version.
+
+Stay tuned!

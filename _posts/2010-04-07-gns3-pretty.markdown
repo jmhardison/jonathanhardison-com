@@ -19,7 +19,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>So I've been using Dynamips for a while, and even recommended it before here for those looking for a cheap way to build their Cisco training lab. (Cheap as in free!) Well I just recently stumbled upon GNS3 which provides a very nice graphical front end to it. I guess that is what happens when you actually read the dynamips page for a change instead of just downloading!</p>
-<p>Anyways, this provides a very graphical way of managing the experience, including a Visio style display of your connections and setup.</p>
-<p>Check it out! <a href="http:&#47;&#47;www.gns3.net" target="_blank">www.gns3.net<&#47;a></p>
-<p><a href="http:&#47;&#47;www.jonathanhardison.com&#47;wp-content&#47;uploads&#47;2010&#47;04&#47;screenshot-frame-relay-lab.mini_.png"><img class="alignnone size-medium wp-image-436" style="border: 0px initial initial;" title="screenshot-frame-relay-lab.mini" src="http:&#47;&#47;www.jonathanhardison.com&#47;wp-content&#47;uploads&#47;2010&#47;04&#47;screenshot-frame-relay-lab.mini_-300x225.png" alt="" width="300" height="225" &#47;><&#47;a></p>
+So I've been using Dynamips for a while, and even recommended it before here for those looking for a cheap way to build their Cisco training lab. (Cheap as in free!) Well I just recently stumbled upon GNS3 which provides a very nice graphical front end to it. I guess that is what happens when you actually read the dynamips page for a change instead of just downloading!
+
+Anyways, this provides a very graphical way of managing the experience, including a Visio style display of your connections and setup.
+
+Check it out! [gns3](http://www.gns3.net){:target="_blank"}
