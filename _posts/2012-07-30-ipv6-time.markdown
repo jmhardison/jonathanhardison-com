@@ -19,7 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-![img]({{site.base}}/imagecontent2012/07/World_IPv6_launch_badge_512-300x300.png)
+![img]({{site.base}}/imagecontent/2012/07/World_IPv6_launch_badge_512-300x300.png)
 
 Ok so my site wasn't able to participate last year, nor has it been dual-stacked.... yet. But last year I did participate in the world wide test using a software tunnel client. Yesterday I have upgraded my home network to include an IPv6 tunnel with HE.net and have fully implemented IPv6/IPv4 dual stack in home.
 

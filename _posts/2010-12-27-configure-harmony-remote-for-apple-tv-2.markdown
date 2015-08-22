@@ -25,20 +25,16 @@ Well that was until I started searching for Apple TV in the supported devices. T
 
 So lets start off signed into the Harmony Remote Software, and guide yourself to adding a device.
 You will want to add a device with the following settings:
-![img1]({{site.base}}/imagecontent/2010/12/harmony-add-device1.png)
 
 Device:Media Center PC
 Manufacturer: Apple
 Model: Apple TV
 
-![img2]({{site.base}}/imagecontent/2010/12/harmony-device-view1.png)
+
 After that of course I recommend changing the name of the device so that is says Apple TV instead of Media Center PC.
 
 Click Settings on the device you added as your Apple TV, then under device options select "Rename this device" and click next.
 
-![img3]({{site.base}}/imagecontent/2010/12/harmony-device-options.png)
-
-![img4]({{site.base}}/imagecontent/2010/12/harmony-rename-device.png")
 
 After renaming the device you can proceed with adding it into your activities. Which is the same simple method you've always used.
 
