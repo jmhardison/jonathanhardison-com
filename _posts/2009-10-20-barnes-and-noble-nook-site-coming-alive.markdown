@@ -19,5 +19,5 @@ categories:
 tags: []
 comments: []
 ---
-<p>go check it out, the site is coming to life!</p>
-<p>http:&#47;&#47;www.barnesandnoble.com&#47;nook</p>
+go check it out, the site is coming to life!
+[Link](http://www.barnesandnoble.com/nook){:target="_blank"}

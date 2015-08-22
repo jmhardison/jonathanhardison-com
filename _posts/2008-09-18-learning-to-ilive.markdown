@@ -19,7 +19,10 @@ categories:
 tags: []
 comments: []
 ---
-<p>So after getting an iphone recently, I am learning to live mobile... Again.</p>
-<p>Having moved from a windows mobile powered htc touch, it is quite an amazing change. This device has so many possibilities that it is just plain amazing. So amazing that I have re-deployed my blog as a wordpress site just to use the worspress mobile application.</p>
-<p>Now the thing is not perfect, and it has some drastic shortcomings. But since I still have a sprint treo 800w, you are sure to have some comparisons.</p>
-<p>For now just enjoy the thought that I wrote this entry while relaxed in my bed watching adult swim.</p>
+So after getting an iphone recently, I am learning to live mobile… Again.
+
+Having moved from a windows mobile powered htc touch, it is quite an amazing change. This device has so many possibilities that it is just plain amazing. So amazing that I have re-deployed my blog as a wordpress site just to use the worspress mobile application.
+
+Now the thing is not perfect, and it has some drastic shortcomings. But since I still have a sprint treo 800w, you are sure to have some comparisons.
+
+For now just enjoy the thought that I wrote this entry while relaxed in my bed watching adult swim.

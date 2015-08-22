@@ -19,5 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>That's right folks! The release date for iPhone OS 3.0 has been announced, and it is set for June 17th. Be ready with them clickin' fingers!</p>
-<p><a href="http:&#47;&#47;www.apple.com&#47;iphone&#47;softwareupdate&#47;">http:&#47;&#47;www.apple.com&#47;iphone&#47;softwareupdate&#47;<&#47;a></p>
+That's right folks! The release date for iPhone OS 3.0 has been announced, and it is set for June 17th. Be ready with them clickin' fingers!

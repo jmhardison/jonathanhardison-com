@@ -19,5 +19,5 @@ categories:
 tags: []
 comments: []
 ---
-<p>Office 2010 and SQL Server 2008 R2 have gone RTM.</p>
-<p>Office 2010 should be available on MSDN shortly, with SQL 2008 R2 to follow.</p>
+Office 2010 and SQL Server 2008 R2 have gone RTM.
+Office 2010 should be available on MSDN shortly, with SQL 2008 R2 to follow.

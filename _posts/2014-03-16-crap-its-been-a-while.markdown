@@ -19,5 +19,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>In case you noticed, it was July 2012 when I last posted. I may have some other pages kept current, but still that's a long time. </p>
-<p>I plan to do some more dumps on here in the future. So keep an eye out, and hello again!</p>
+In case you noticed, it was July 2012 when I last posted. I may have some other pages kept current, but still that's a long time.
+
+I plan to do some more dumps on here in the future. So keep an eye out, and hello again!

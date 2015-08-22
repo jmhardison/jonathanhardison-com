@@ -19,12 +19,18 @@ categories:
 tags: []
 comments: []
 ---
-<p><img class="alignnone size-full wp-image-421" title="cing_logo" src="http:&#47;&#47;www.jonathanhardison.com&#47;wp-content&#47;uploads&#47;2010&#47;03&#47;cing_logo.gif" alt="" width="119" height="57" &#47;></p>
-<p>Ok, so I dived into this hoping it would go smoother but I should know better. This is the week of release in my area, and I knew there would be problems. I only was&nbsp;optimistic&nbsp;to prevent myself from&nbsp;seeing&nbsp;the truth.</p>
-<p>Only a day after U-verse was installed, we have identified several issues that were not caught on install day (that ended at 8:38pm).</p>
-<p>1. VOD performance is sluggish. (Chopping audio and freezing video)<br />
-2. Internet performance is below or equal to old DSL package. (no greater than 5-6 megs on testing for an 18meg package.)</p>
-<p>What we have identified is that the priority queuing for streaming video to the sets is working as expected. As we do not see any issues with video playback. VOD is a different story as for some reason it is not being classified in the same priority queue, and winds up with our Internet speed issue.</p>
-<p>The speed issue has been tested and they swear everything is correct on their end. And they have gone as far as swapping the U-verse modem thinking it would be the culprit. We've stripped down to only a single system wired to the modem with no voice, video, or wireless services active. And after that, now they think it is in the fiber which is a call to the outside guys.</p>
-<p>That all is fine as long as they fix it, but it feels like they are heading the wrong direction. The streaming video works, and uses a larger portion of bandwidth for HD and 2 additional sets, without a hickup. Which makes someone like me, think more on the line of something in the priority queues or our provisioning is not being released to the full 18megs. But hey, I will patiently wait while they decide to fix it.</p>
-<p>I know in the end this will work great, but this is quite a hurdle to jump in the first days. All of which I'm sure they will be more than happy to bill me for.</p>
+![att]({{site.base}}/imagecontent/2010/03/cing_logo.gif)
+
+Ok, so I dived into this hoping it would go smoother but I should know better. This is the week of release in my area, and I knew there would be problems. I only was optimistic to prevent myself from seeing the truth.
+
+Only a day after U-verse was installed, we have identified several issues that were not caught on install day (that ended at 8:38pm).
+
+  1. VOD performance is sluggish. (Chopping audio and freezing video)<br />
+  2. Internet performance is below or equal to old DSL package. (no greater than 5-6 megs on testing for an 18meg package.)
+
+What we have identified is that the priority queuing for streaming video to the sets is working as expected. As we do not see any issues with video playback. VOD is a different story as for some reason it is not being classified in the same priority queue, and winds up with our Internet speed issue.
+
+The speed issue has been tested and they swear everything is correct on their end. And they have gone as far as swapping the U-verse modem thinking it would be the culprit. We've stripped down to only a single system wired to the modem with no voice, video, or wireless services active. And after that, now they think it is in the fiber which is a call to the outside guys.
+
+That all is fine as long as they fix it, but it feels like they are heading the wrong direction. The streaming video works, and uses a larger portion of bandwidth for HD and 2 additional sets, without a hickup. Which makes someone like me, think more on the line of something in the priority queues or our provisioning is not being released to the full 18megs. But hey, I will patiently wait while they decide to fix it.
+I know in the end this will work great, but this is quite a hurdle to jump in the first days. All of which I'm sure they will be more than happy to bill me for.

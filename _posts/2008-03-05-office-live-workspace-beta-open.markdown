@@ -19,7 +19,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>&nbsp;</p>
-<p><a href="http:&#47;&#47;workspace.office.live.com">Office Live Workspace Beta<&#47;a> is finally open to those of us waiting for so long. Of course it is basically a free SharePoint site,<br />
-but it is still cool!</p>
-<p><a href="http:&#47;&#47;jonathanhardison.com&#47;wp-content&#47;uploads&#47;2008&#47;09&#47;image-thumb-3.png" target="_blank"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" src="http:&#47;&#47;jonathanhardison.com&#47;wp-content&#47;uploads&#47;2008&#47;09&#47;image-thumb-3-thumb.png" border="0" alt="image_thumb-3" width="305" height="271" &#47;><&#47;a></p>
+[Office Live Workspace Beta](http://workspace.office.live.com){:target="_blank"} is finally open to those of us waiting for so long. Of course it is basically a free SharePoint site, but it is still cool!
+
+![image_thumb-3]({{site.base}}/imagecontent/2008/09/image-thumb-3-thumb.png)

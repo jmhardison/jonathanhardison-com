@@ -19,5 +19,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>The Windows Live Sync team has identified a problem with the Mac client that is effecting the ability for anyone, PC or MAC, to connect to the service.&nbsp; As a result, they have temporarily shut down the ability for the Mac client to connect to the service. The result will be on the Mac an error resembling "Your version is too old." However, the PC world may connect just fine now that the Mac originated DoS attack is done.</p>
-<p>As soon as it is resolved they will probably put up a post on the newsgroup, however you will have to weed in and out of the inconsiderate people who are unable to accept that deploying large scale changes like this have issues. But hey, isn't that jus the norm?</p>
+The Windows Live Sync team has identified a problem with the Mac client that is effecting the ability for anyone, PC or MAC, to connect to the service.  As a result, they have temporarily shut down the ability for the Mac client to connect to the service. The result will be on the Mac an error resembling “Your version is too old.” However, the PC world may connect just fine now that the Mac originated DoS attack is done.
+
+As soon as it is resolved they will probably put up a post on the newsgroup, however you will have to weed in and out of the inconsiderate people who are unable to accept that deploying large scale changes like this have issues. But hey, isn’t that jus the norm?

@@ -21,4 +21,4 @@ tags:
 - LinkedIn
 comments: []
 ---
-<p>VS 2010 and .NET 4.0 have just been posted on MSDN.... GO GET SOME!</p>
+VS 2010 and .NET 4.0 have just been posted on MSDN.... GO GET SOME!

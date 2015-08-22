@@ -28,16 +28,23 @@ comments:
     2.1 - Good Bad and UglyHere&#8217;s a short outlineWell, for the most part the
     iPhone does just work. And works well&#8230;. [...]"
 ---
-<p>Ever have that feeling that things should just work? Well, for the most part the iPhone does just work. And works well. But there are a few items that seem to be basic things that should just work.</p>
-<ul>
-<li>No Copy and Paste - Never had it, still waiting for it.<&#47;li>
-<li>No MMS - Apparently third party apps like Twitter can do it, but it's not built in.<&#47;li>
-<li>Cannot delete single call from history<&#47;li>
-<li>Does not show call details for old calls, only fairly recent calls. (History such as call duration.)<&#47;li>
-<li>PUSH exchange has intermittent issues on 2.1 where it will fail to update.<&#47;li>
-<li>VPN will not automatically connect, you must press ON.<&#47;li>
-<li>Cannot change email alert tone, sent message tone, and several others.<&#47;li>
-<li>No native HOTMAIL support. Must purchase hotmail plus and run a pop connection.<&#47;li><br />
-<&#47;ul></p>
-<div><&#47;div></p>
-<div>Of course this phone has enough to offset these issues for a short time, so I will remain happy for now.<&#47;div></p>
+Ever have that feeling that things should just work? Well, for the most part the iPhone does just work. And works well. But there are a few items that seem to be basic things that should just work.
+
+  * No Copy and Paste - Never had it, still waiting for it.
+
+  * No MMS - Apparently third party apps like Twitter can do it, but it’s not built in.
+
+  * Cannot delete single call from history
+
+  * Does not show call details for old calls, only fairly recent calls. (History such as call duration.)
+
+  * PUSH exchange has intermittent issues on 2.1 where it will fail to update.
+
+  * VPN will not automatically connect, you must press ON.
+
+  * Cannot change email alert tone, sent message tone, and several others.
+
+  * No native HOTMAIL support. Must purchase hotmail plus and run a pop connection.
+
+
+Of course this phone has enough to offset these issues for a short time, so I will remain happy for now.

@@ -19,9 +19,10 @@ categories:
 tags: []
 comments: []
 ---
-<p>Apparently I'm so clumsy that I am capable of chopping the tip of my finger off.</p>
-<p><a href="http:&#47;&#47;jonathanhardison.com&#47;wp-content&#47;uploads&#47;2008&#47;09&#47;p-640-480-656a7803-158a-410c-811a-92c1bb0a16b7.jpeg"><img class="alignnone size-full wp-image-364" src="http:&#47;&#47;jonathanhardison.com&#47;wp-content&#47;uploads&#47;2008&#47;09&#47;p-640-480-656a7803-158a-410c-811a-92c1bb0a16b7.jpeg" alt="" width="225" height="300" &#47;><&#47;a></p>
-<p>All I wanted to do was chop an onion. Apparently the knife had other<br />
-ideas and went down through my fingernail at an angle.</p>
-<p>This is close to a week after the incident, but still healing.<br />
-To save you more gore, I won't explain how I took care of it.</p>
+Apparently I’m so clumsy that I am capable of chopping the tip of my finger off.
+
+![image]({{site.base}}/imagecontent/2008/09/p-640-480-656a7803-158a-410c-811a-92c1bb0a16b7.jpeg)
+
+All I wanted to do was chop an onion. Apparently the knife had other ideas and went down through my fingernail at an angle.
+
+This is close to a week after the incident, but still healing. To save you more gore, I won’t explain how I took care of it.

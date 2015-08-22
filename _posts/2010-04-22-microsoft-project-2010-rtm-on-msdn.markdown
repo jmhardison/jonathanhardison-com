@@ -21,4 +21,4 @@ tags:
 - LinkedIn
 comments: []
 ---
-<p>Next: Microsoft Project 2010 RTM has been released to MSDN.</p>
+Next: Microsoft Project 2010 RTM has been released to MSDN.

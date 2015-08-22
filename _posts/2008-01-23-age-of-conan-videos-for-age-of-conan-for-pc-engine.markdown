@@ -19,15 +19,18 @@ categories:
 tags: []
 comments: []
 ---
-<p>Being an avid game player, as a way to pass my time while I'm not working or studying, I'm<br />
-always on the look out for the next great game. Playing everything from free MMO's to pay MMO's<br />
-and even beta's that die before release (Wish, hint hint). I just had to post something about this.</p>
-<p>Age of Conan is shaping up to be a defining standard for what is to be expected of an MMO in the<br />
-future. And here I though LOTRO was the greatest visual experience running it in DX10 mode.<br />
-Well, take a look at this video and see for yourself. Maybe you too will want to become an Age of Conan<br />
-Preorder like me!</p>
-<p>The interesting aspect of this game, is up to level 20 you are solo. You play online, but in a solo instance.<br />
-This is to get your training out of the way without just throwing you into the fray. Of course they could have<br />
-done the "tutorial" thing like all other games, but instead they wanted to give you a story tailored to you.<br />
-After level 20 it's the big bad world for you!</p>
-<p>This video is from <a href="http:&#47;&#47;www.mmorpg.com&#47;gamelist.cfm&#47;setView&#47;videos&#47;gameID&#47;191&#47;videoId&#47;1174">MMORPG.com<&#47;a>.</p>
+Being an avid game player, as a way to pass my time while I’m not working or studying, I’m
+ always on the look out for the next great game. Playing everything from free MMO’s to pay MMO’s
+ and even beta’s that die before release (Wish, hint hint). I just had to post something about this.
+
+Age of Conan is shaping up to be a defining standard for what is to be expected of an MMO in the
+ future. And here I though LOTRO was the greatest visual experience running it in DX10 mode.
+ Well, take a look at this video and see for yourself. Maybe you too will want to become an Age of Conan
+ Preorder like me!
+
+The interesting aspect of this game, is up to level 20 you are solo. You play online, but in a solo instance.
+ This is to get your training out of the way without just throwing you into the fray. Of course they could have
+ done the “tutorial” thing like all other games, but instead they wanted to give you a story tailored to you.
+ After level 20 it’s the big bad world for you!
+
+This video is from [MMORPG.com](http://www.mmorpg.com/gamelist.cfm/setView/videos/gameID/191/videoId/1174){:target="_blank"}.

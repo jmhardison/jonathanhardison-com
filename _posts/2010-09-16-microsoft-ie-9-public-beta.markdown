@@ -19,7 +19,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>I just installed the IE 9 Public Beta, and lordy lordy it&rsquo;s a nice little experience.<&#47;p>
-<p>First off, the UI is much cleaner and simplified. And definitely looks like they took a que or two from their competitors.<&#47;p>
-<p><a href="http:&#47;&#47;www.jonathanhardison.com&#47;wp-content&#47;uploads&#47;2010&#47;09&#47;image.png"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="image" border="0" alt="image" src="http:&#47;&#47;www.jonathanhardison.com&#47;wp-content&#47;uploads&#47;2010&#47;09&#47;image_thumb.png" width="614" height="115" &#47;><&#47;a> <&#47;p>
-<p>Head on over and grab yourself a copy at their <a href="http:&#47;&#47;www.microsoft.com&#47;ie9" target="_blank">site<&#47;a>! <&#47;p></p>
+I just installed the IE 9 Public Beta, and lordy lordy it's a nice little experience.
+
+First off, the UI is much cleaner and simplified. And definitely looks like they took a que or two from their competitors.
+
+![img]({{site.base}}/imagecontent/2010/09/image.png)

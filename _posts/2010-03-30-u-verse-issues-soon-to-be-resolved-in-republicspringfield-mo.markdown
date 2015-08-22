@@ -19,7 +19,9 @@ categories:
 tags: []
 comments: []
 ---
-<p>Ok hear ye hear ye...</p>
-<p>ATT now says it's a "known issue" and will be resolved durring their maintenance window tonight since there are too many users on the system to reboot any other time. But whatever the issue, it should be resolved for any user or future user of U-Verse that happens to connect to this particular VRAD.&nbsp;I might just stay up late enough to test it, but then again maybe I won't. After all tomorrow is my last day at home then it's off to Texas. Funny how that works. Get U-Verse installed and cannot even experience its goodness ... :(</p>
-<p>Oh well, I will update when I see it improve.</p>
-<p>Oh and by the way, where was the VRAD? In the Spring</p>
+Ok hear ye hear ye...
+
+ATT now says it's a "known issue" and will be resolved durring their maintenance window tonight since there are too many users on the system to reboot any other time. But whatever the issue, it should be resolved for any user or future user of U-Verse that happens to connect to this particular VRAD. I might just stay up late enough to test it, but then again maybe I won't. After all tomorrow is my last day at home then it's off to Texas. Funny how that works. Get U-Verse installed and cannot even experience its goodness ... :(
+
+Oh well, I will update when I see it improve.
+Oh and by the way, where was the VRAD? In the Springfield.

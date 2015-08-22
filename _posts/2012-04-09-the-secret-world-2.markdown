@@ -19,6 +19,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>Please tell me that you all have been paying attention and saw that Funcom's The Secret World is now up for preorder!?</p>
-<p>&nbsp;</p>
-<p>If not, you better head over there and get you some. June 19th is release, with beta weekends starting in May.</p>
+Please tell me that you all have been paying attention and saw that Funcom's The Secret World is now up for preorder!?
+
+If not, you better head over there and get you some. June 19th is release, with beta weekends starting in May.

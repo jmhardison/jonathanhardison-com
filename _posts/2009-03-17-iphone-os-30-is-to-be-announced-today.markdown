@@ -19,12 +19,16 @@ categories:
 tags: []
 comments: []
 ---
-<p>Waiting patiently for the announcement of iPhone OS 3.0, and all the glory that will come with it. Check out <a href="http:&#47;&#47;www.macrumors.com&#47;2009&#47;03&#47;13&#47;iphone-3-0-to-get-mms-tethering-and-finally-copy-and-paste&#47;" target="_blank">macrumors <&#47;a>for some details!</p>
-<p>Short list of updates include:</p>
-<ul>
-<li>MMS<&#47;li>
-<li>Tethering<&#47;li>
-<li>Copy-and-Paste<&#47;li>
-<li>New Dashboard&#47;Home Screen<&#47;li>
-<li>Possibly APP Notifications<&#47;li><br />
-<&#47;ul></p>
+Waiting patiently for the announcement of iPhone OS 3.0, and all the glory that will come with it. Check out [macrumors](http://www.macrumors.com/2009/03/13/iphone-3-0-to-get-mms-tethering-and-finally-copy-and-paste/){:target="_blank"} for some details!
+
+Short list of updates include:
+
+  * MMS
+
+  * Tethering
+
+  * Copy-and-Paste
+
+  * New Dashboard/Home Screen
+
+  * Possibly APP Notifications

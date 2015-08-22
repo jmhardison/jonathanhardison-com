@@ -19,4 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Happy New Year everyone, hard to believe it's already 2012. But here we go, another year is here!</p>
+Happy New Year everyone, hard to believe it's already 2012. But here we go, another year is here!

@@ -21,6 +21,6 @@ tags:
 - LinkedIn
 comments: []
 ---
-<p>MS Office 2010 Professional Plus RTM released on MSDN.</p>
-<p>That's right, it just posted this morning... go get some!</p>
-<p>Both the x64 and x86 versions are up.</p>
+MS Office 2010 Professional Plus RTM released on MSDN.
+That's right, it just posted this morning... go get some!
+Both the x64 and x86 versions are up.

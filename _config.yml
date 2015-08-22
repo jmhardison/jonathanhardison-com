@@ -15,7 +15,7 @@ markdown: kramdown
 highlighter: Rouge
 
 #pagination
-paginate: 15
+paginate: 5
 
 #excludes
 exclude: [vendor]

@@ -19,6 +19,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>B&amp;N has released an update for the nook, bringing the freshly released device to 1.1.0. Officially, it is not NOT a v1.0 device. So begins the rants and raves.</p>
-<p>Anyways, the update actually seems to have greatly improved performance of the device from menu access to page turns. Although an actual 'update notes' has not been released by B&amp;N yet, there is speculation of what it did do.</p>
-<p>Some notable items are page turns speed, random crashing of books, time display, and the dreaded 'Formatting'.</p>
+B&N has released an update for the nook, bringing the freshly released device to 1.1.0. Officially, it is not NOT a v1.0 device. So begins the rants and raves.
+Anyways, the update actually seems to have greatly improved performance of the device from menu access to page turns. Although an actual 'update notes' has not been released by B&N yet, there is speculation of what it did do.
+Some notable items are page turns speed, random crashing of books, time display, and the dreaded 'Formatting'.

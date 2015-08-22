@@ -29,7 +29,10 @@ comments:
     and wanted to post a link to a great site with some information about the next
     iPhone Update&#8230;. [...]"
 ---
-<div class="mceTemp">Having been watching and waiting for this update to be released mainstream, I'm tired of waiting and wanted to post a link to a great site with some information about the next iPhone Update.<&#47;div><br />
-In case anyone wonders how they see these things, Apple Developers get 'seeded' the latest beta builds for use in developing products with XCode. Of course for us windows brats that means we don't get ot see first hand. (Unless us windows brats also run a hackintosh... but who does that now-a-days... surely nobody... that's not normal... er... something...)</p>
-<p>Check out the following link to a story about some of the noticed changes from 2.1 to 2.2<br />
-<a href="http:&#47;&#47;www.appleinsider.com&#47;articles&#47;08&#47;09&#47;29&#47;next_iphone_software_update_to_deliver_safari_app_store_tweaks.html" target="_blank">APPLEINSIDER<&#47;a>. Of course that doesn't show anything about the background push feature requested by developers as a way to have applications run in the background. I expect it will be delayed again, and 2.2 will be released without it. <a href="http:&#47;&#47;www.appleinsider.com&#47;articles&#47;08&#47;06&#47;09&#47;apple_tackles_iphone_background_app_limits_with_push_service.html" target="_blank">Background Push Coming... Octember!<&#47;a></p>
+Having been watching and waiting for this update to be released mainstream, I’m tired of waiting and wanted to post a link to a great site with some information about the next iPhone Update.
+
+In case anyone wonders how they see these things, Apple Developers get ‘seeded’ the latest beta builds for use in developing products with XCode. Of course for us windows brats that means we don’t get to see first hand. (Unless us windows brats also run a hackintosh… but who does that now-a-days… surely nobody… that’s not normal… er… something…)
+
+Check out the following [link](http://www.appleinsider.com/articles/08/06/09/apple_tackles_iphone_background_app_limits_with_push_service.html){:target="_blank"} to a story about some of the noticed changes from 2.1 to 2.2.
+
+Of course that doesn’t show anything about the background push feature requested by developers as a way to have applications run in the background. I expect it will be delayed again, and 2.2 will be released without it. [Link](http://www.appleinsider.com/articles/08/09/29/next_iphone_software_update_to_deliver_safari_app_store_tweaks.html){:target="_blank"}

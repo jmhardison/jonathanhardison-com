@@ -19,4 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>So I failed to wish everyone a Happy New Year this year, so here it is. Happy Belated New Year!</p>
+So I failed to wish everyone a Happy New Year this year, so here it is. Happy Belated New Year!

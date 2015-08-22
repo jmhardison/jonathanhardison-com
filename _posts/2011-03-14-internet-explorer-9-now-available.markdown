@@ -19,5 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Hey all, in case you have not seen the&nbsp;loveliness&nbsp;that was released upon the world... tonight at 9pm PST Microsoft released Internet Explorer 9 upon the world.</p>
-<p>You too may obtain it by going to <a href="http:&#47;&#47;www.beautyoftheweb.com">www.beautyoftheweb.com<&#47;a> and clicking download.</p>
+Hey all, in case you have not seen the loveliness that was released upon the world... tonight at 9pm PST Microsoft released Internet Explorer 9 upon the world.

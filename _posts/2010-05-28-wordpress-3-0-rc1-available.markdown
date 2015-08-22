@@ -19,4 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>WordPress 3.0 RC1 has been released. And I've finally reached the comfort level needed to upgrade my site to the latest and greatest. That's right, this site here is now hosted on WordPress 3.0 RC1! Weep all ye other ... people...</p>
+WordPress 3.0 RC1 has been released. And I've finally reached the comfort level needed to upgrade my site to the latest and greatest. That's right, this site here is now hosted on WordPress 3.0 RC1! Weep all ye other ... people...

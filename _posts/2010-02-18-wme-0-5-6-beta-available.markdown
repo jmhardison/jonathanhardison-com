@@ -19,5 +19,5 @@ categories:
 tags: []
 comments: []
 ---
-<p>WME beta 0.5.6 has been posted. Updater is not yet available for download, this will be posted shortly.</p>
-<p><img class="alignnone size-full wp-image-409" style="border: 0px initial initial;" title="Capture" src="http:&#47;&#47;www.jonathanhardison.com&#47;wp-content&#47;uploads&#47;2010&#47;02&#47;Capture.png" alt="" width="429" height="310" &#47;></p>
+WME beta 0.5.6 has been posted. Updater is not yet available for download, this will be posted shortly.
+![img]({{site.base}}/imagecontent/2010/02/Capture.png)

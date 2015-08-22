@@ -19,5 +19,5 @@ categories:
 tags: []
 comments: []
 ---
-<p>Yay, my nook will be delivered today!</p>
-<p>But the bad news? I'm in Texas and won't be able to use it for another couple days. Isn't that the way the world works?</p>
+Yay, my nook will be delivered today!
+But the bad news? I'm in Texas and won't be able to use it for another couple days. Isn't that the way the world works?

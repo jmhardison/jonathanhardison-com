@@ -19,4 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Hurry and go get it! Microsoft posted the Release Candidate of Windows 7 and Windows Vista SP2 to MSDN subscribers yesterday!</p>
+Hurry and go get it! Microsoft posted the Release Candidate of Windows 7 and Windows Vista SP2 to MSDN subscribers yesterday!

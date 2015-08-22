@@ -19,4 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Xceed has released the latest major update to DataGrid for WPF. Version 4.0 brings with it full support for .NET 4.0 and Visual Studio 2010.</p>
+Xceed has released the latest major update to DataGrid for WPF. Version 4.0 brings with it full support for .NET 4.0 and Visual Studio 2010.

@@ -19,20 +19,22 @@ categories:
 tags: []
 comments: []
 ---
-<p>Oh joy of joys!</p>
-<p>The nook gets the new 1.2 firmware before my next trip.</p>
-<p>Here's the notes:</p>
-<p>&nbsp;nook V1.2 continues to improve nook performance to provide enhanced overall reading experience and in-store connectivity for nook customers to enjoy exclusive content and promotions in Barnes &amp; Noble stores. Key updates include:</p>
-<ul>
-<li>Enhanced in-store seamless connectivity to enjoy free Wi-Fi, with our More In Store content and promotions exclusively for nook owners.<&#47;li>
-<li>Improved opening of eBooks and periodicals<&#47;li>
-<li>Improved response to Reading Now &amp; Settings buttons<&#47;li>
-<li>Current reading page and bookmarks on all eBooks is properly saved when your nook is powered off<&#47;li>
-<li>Bookmarks display page number<&#47;li>
-<li>Eligible LendMe&trade; eBooks in My Library include a LendMe&trade; flag<&#47;li>
-<li>Easier navigation of daily subscription with issues rolled into one folder<&#47;li>
-<li>Improved "back" button functionality for navigating eBooks and periodicals<&#47;li>
-<li>Personal files downloaded onto nook and displayed in My Documents can be sorted by author &amp; title<&#47;li>
-<li>Overall system improvements and battery optimization<&#47;li><br />
-<&#47;ul><br />
-Download it now from <a href="http:&#47;&#47;www.nook.com&#47;support">www.nook.com&#47;support<&#47;a></p>
+Oh joy of joys!
+The nook gets the new 1.2 firmware before my next trip.
+Here's the notes:
+
+  > nook V1.2 continues to improve nook performance to provide enhanced overall reading experience and in-store connectivity for nook customers to enjoy exclusive content and promotions in Barnes & Noble stores. Key updates include:
+  >
+  >  * Enhanced in-store seamless connectivity to enjoy free Wi-Fi, with our More In Store content and promotions exclusively for nook owners.</li>
+  >  * Improved opening of eBooks and periodicals</li>
+  >  * Improved response to Reading Now & Settings buttons</li>
+  >  * Current reading page and bookmarks on all eBooks is properly saved when your nook is powered off</li>
+  >  * Bookmarks display page number</li>
+  >  * Eligible LendMe eBooks in My Library include a LendMe flag</li>
+  >  * Easier navigation of daily subscription with issues rolled into one folder</li>
+  >  * Improved "back" button functionality for navigating eBooks and periodicals</li>
+  >  * Personal files downloaded onto nook and displayed in My Documents can be sorted by author & title</li>
+  >  * Overall system improvements and battery optimization</li><br />
+
+
+Download it now from [nook](http://www.nook.com/support){:target="_blank"}

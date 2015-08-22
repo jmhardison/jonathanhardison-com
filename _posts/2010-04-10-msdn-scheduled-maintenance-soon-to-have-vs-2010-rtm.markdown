@@ -19,5 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>So with MSDN being down for maintenance, from friday until monday... it makes me wonder if it is down intentionally to allow for VS 2010 to get uploaded. Time to wait for the starting bell!</p>
-<p><img src="http:&#47;&#47;www.jonathanhardison.com&#47;wp-content&#47;uploads&#47;2010&#47;04&#47;Capture-300x70.png" alt="" title="Capture" width="300" height="70" class="alignnone size-medium wp-image-438" &#47;></p>
+So with MSDN being down for maintenance, from friday until monday... it makes me wonder if it is down intentionally to allow for VS 2010 to get uploaded. Time to wait for the starting bell!

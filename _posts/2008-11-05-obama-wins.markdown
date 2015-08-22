@@ -19,7 +19,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>&nbsp;</p>
-<p>[caption id="attachment_92" align="alignnone" width="300" caption="Source: www.barackobama.com"]<a href="http:&#47;&#47;www.barackobama.com"><img class="size-medium wp-image-92 " title="thankyou_banner" src="http:&#47;&#47;jonathanhardison.com&#47;wp-content&#47;uploads&#47;2008&#47;11&#47;thankyou_banner-300x110.jpg" alt="Source: www.barackobama.com" width="300" height="110" &#47;><&#47;a>[&#47;caption]</p>
-<p>America made history last night, and now President Elect Barack Obama is set to lead us into another term.</p>
-<p>And now? Back to work!</p>
+[]![thankyou_banner]({{site.base}}/imagecontent/2008/11/thankyou_banner-300x110.jpg)](http://www.barackobama.com){:target="_blank"}
+
+America made history last night, and now President Elect Barack Obama is set to lead us into another term.
+
+And now? Back to work!

@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>Kiwi Syslog is now a product of Solarwinds.</p>
-<p>Head on over to the site to get your own copy free!</p>
-<p><a href="http:&#47;&#47;www.solarwinds.com&#47;register&#47;kiwi_registration.aspx?Program=874&amp;c=70150000000EIV7"><img class="alignnone size-full wp-image-154" style="border: 0px;" title="capturekiwifree" src="http:&#47;&#47;www.jonathanhardison.com&#47;wp-content&#47;uploads&#47;2009&#47;01&#47;capturekiwifree.jpg" alt="capturekiwifree" width="347" height="322" &#47;><&#47;a></p>
+Kiwi Syslog is now a product of Solarwinds.
+
+Head on over to the site to get your own copy free!
+
+[![capturekiwifree]({{site.base}}/imagecontent/2009/01/capturekiwifree.jpg)](http://www.solarwinds.com/register/kiwi_registration.aspx?Program=874&amp;c=70150000000EIV7){:target="_blank"}
