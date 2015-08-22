@@ -20,8 +20,6 @@ categories:
 tags: []
 comments: []
 ---
-![img]({{site.base}}/imagecontent/2010/07/Capture.png)
-
 Wow, just wow!
 Rackspacecloud.com is an outstanding hosting provider for virtual servers.... and now, they have gone open source.
 Check out OpenStack.com and dive into a brave new world. Bout time somebody did this!

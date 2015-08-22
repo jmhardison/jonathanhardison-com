@@ -21,6 +21,4 @@ comments: []
 ---
 I just installed the IE 9 Public Beta, and lordy lordy it's a nice little experience.
 
-First off, the UI is much cleaner and simplified. And definitely looks like they took a que or two from their competitors.
-
-![img]({{site.base}}/imagecontent/2010/09/image.png)
+First off, the UI is much cleaner and simplified. And definitely looks like they took a key or two from their competitors.
