@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Ubuntu 10.04 LTS Released, gone pretty!?
-author:
-  display_name: Jonathan
-  login: jmhadmin
-  email: jmh@jonathanhardison.com
-  url: ''
+author:Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 473

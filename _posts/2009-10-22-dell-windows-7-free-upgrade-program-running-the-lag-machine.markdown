@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Dell Windows 7 Free Upgrade Program Running The Lag Machine!
-author:
-  display_name: Jonathan
-  login: jmhadmin
-  email: jmh@jonathanhardison.com
-  url: ''
+author:Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 302

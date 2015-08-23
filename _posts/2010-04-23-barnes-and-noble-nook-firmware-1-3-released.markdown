@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Barnes and Noble nook Firmware 1.3 Released!
-author:
-  display_name: Jonathan
-  login: jmhadmin
-  email: jmh@jonathanhardison.com
-  url: ''
+author:Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 464

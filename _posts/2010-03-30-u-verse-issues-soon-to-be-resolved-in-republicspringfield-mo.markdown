@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: U-Verse Issues Soon To Be Resolved in Republic&#47;Springfield MO?
-author:
-  display_name: Jonathan
-  login: jmhadmin
-  email: jmh@jonathanhardison.com
-  url: ''
+author:Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 429

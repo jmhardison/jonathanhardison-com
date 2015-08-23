@@ -3,6 +3,7 @@ layout: post
 title:  "Site Migration to Jekyll"
 date:   2015-08-22 13:04:42
 categories: general
+author:Jonathan
 ---
 #Salutations!
 So after much delay, I've sat down and worked on my site a bit. But... never content with good things, I decided to do another migration.

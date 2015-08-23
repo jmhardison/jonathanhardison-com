@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Brother 4040CN Laser Printer Says I'm Out of Black Ink?
-author:
-  display_name: Jonathan
-  login: jmhadmin
-  email: jmh@jonathanhardison.com
-  url: ''
+author:Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 511

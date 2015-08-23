@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Briefly We Walk... VS2010 First Hours Impression!
-author:
-  display_name: Jonathan
-  login: jmhadmin
-  email: jmh@jonathanhardison.com
-  url: ''
+author:Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 443

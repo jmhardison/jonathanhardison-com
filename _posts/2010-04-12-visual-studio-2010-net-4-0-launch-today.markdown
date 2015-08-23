@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Visual Studio 2010 & .NET 4.0 Launch Today!
-author:
-  display_name: Jonathan
-  login: jmhadmin
-  email: jmh@jonathanhardison.com
-  url: ''
+author:Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 440

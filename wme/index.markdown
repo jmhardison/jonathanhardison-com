@@ -3,11 +3,7 @@ layout: page
 status: publish
 published: true
 title: WME
-author:
-  display_name: ''
-  login: ''
-  email: ''
-  url: ''
+author:Jonathan
 wordpress_id: 170
 wordpress_url: http://www.jonathanhardison.com/?page_id=170
 date: '2009-04-08 08:07:42 -0500'
