@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: OpenStack... Rackspace Cloud + NASA Nebula for Free!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 546

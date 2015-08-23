@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Windows Live Sync Mac Connection Issue
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 139

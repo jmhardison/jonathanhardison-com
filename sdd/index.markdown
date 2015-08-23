@@ -3,7 +3,7 @@ layout: page
 status: publish
 published: true
 title: SDD
-author:Jonathan
+author: Jonathan
 wordpress_id: 240
 wordpress_url: http://www.jonathanhardison.com/?page_id=240
 date: '2009-10-04 21:21:27 -0500'

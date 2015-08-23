@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Apple Announces Many New Items for 2009!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 204

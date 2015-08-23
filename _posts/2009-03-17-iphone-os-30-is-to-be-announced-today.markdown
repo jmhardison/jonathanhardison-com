@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: iPhone OS 3.0 is to be announced today!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 159

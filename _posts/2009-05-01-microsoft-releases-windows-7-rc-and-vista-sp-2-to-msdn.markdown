@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Microsoft Releases Windows 7 RC and Vista SP 2 to MSDN!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 189

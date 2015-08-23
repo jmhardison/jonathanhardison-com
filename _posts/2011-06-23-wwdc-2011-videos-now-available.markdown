@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: WWDC 2011 Videos Now Available!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 629

@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Windows Live FolderShare is now Windows Live Sync!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 132

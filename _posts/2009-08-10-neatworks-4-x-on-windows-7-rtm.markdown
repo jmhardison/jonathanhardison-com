@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: NeatWorks 4.x on Windows 7 RTM.
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 224

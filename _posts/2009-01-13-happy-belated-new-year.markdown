@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Happy Belated New Year!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 150

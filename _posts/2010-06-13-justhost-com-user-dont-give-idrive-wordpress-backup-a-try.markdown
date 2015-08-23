@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Justhost.com user? Don't give iDrive Wordpress Backup a try!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 523

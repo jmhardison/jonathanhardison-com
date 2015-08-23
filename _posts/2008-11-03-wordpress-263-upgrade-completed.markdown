@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: WordPress 2.6.3 Upgrade Completed.
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 83

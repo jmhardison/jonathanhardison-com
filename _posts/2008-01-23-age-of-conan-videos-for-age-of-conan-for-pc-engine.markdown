@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: 'Age of Conan : Videos for Age of Conan for PC Engine'
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 6

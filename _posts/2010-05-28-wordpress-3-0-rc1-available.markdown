@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: WordPress 3.0 RC1 available!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 513

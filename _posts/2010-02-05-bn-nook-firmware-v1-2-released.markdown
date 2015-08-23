@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: B&N nook Firmware v1.2 Released!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 403

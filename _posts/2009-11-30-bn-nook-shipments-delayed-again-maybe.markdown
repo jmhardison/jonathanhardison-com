@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: B&amp;N nook Shipments delayed&hellip; again&hellip; maybe?
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 339

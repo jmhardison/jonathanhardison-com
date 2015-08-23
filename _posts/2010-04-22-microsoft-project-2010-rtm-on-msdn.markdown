@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Microsoft Project 2010 RTM on MSDN!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 458

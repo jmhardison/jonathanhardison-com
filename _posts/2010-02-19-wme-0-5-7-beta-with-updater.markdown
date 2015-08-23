@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: WME 0.5.7 Beta with Updater.
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 412

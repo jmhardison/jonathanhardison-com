@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Crap it's been a while!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 1294

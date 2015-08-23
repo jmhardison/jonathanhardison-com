@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Visual Studio 2010 and .NET 4.0 Available NOW!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 441

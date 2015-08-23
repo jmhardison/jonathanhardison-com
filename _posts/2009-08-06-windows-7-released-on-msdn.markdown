@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Windows 7 Released on MSDN!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 213

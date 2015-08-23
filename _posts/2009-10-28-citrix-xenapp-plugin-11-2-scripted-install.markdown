@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Citrix XenApp Plugin 11.2 Scripted Install
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 311

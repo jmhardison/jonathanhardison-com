@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Shell $aver Card 10 cent off deal now live!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 587

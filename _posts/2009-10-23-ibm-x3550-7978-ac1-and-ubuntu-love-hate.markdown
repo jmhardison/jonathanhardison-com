@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: IBM x3550 7978-AC1 and Ubuntu&hellip; love hate?
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 306

@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Barnes & Noble nook Ships Today!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 335

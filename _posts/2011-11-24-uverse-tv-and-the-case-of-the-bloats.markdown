@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: UVerse TV and the case of the bloats.
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 641

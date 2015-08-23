@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Apple Safari 3.1 Released for Mac and Windows
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 11

@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: AT&T U-verse Issues, Promptly Following Install.
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 420

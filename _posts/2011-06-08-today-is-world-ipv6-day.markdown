@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Today is World IPv6 Day!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 626

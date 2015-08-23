@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: U-Verse Round 2... 3 or 4... something like that.
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 423

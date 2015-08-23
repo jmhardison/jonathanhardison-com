@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: iPhone OS 3.1.3 and iTunes 9.0.3.15 Released!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 395

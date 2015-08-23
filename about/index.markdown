@@ -3,7 +3,7 @@ layout: page
 status: publish
 published: true
 title: About Me!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 2

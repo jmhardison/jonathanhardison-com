@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Ribbon bar, useful for more than just&hellip; ribbons?
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 419

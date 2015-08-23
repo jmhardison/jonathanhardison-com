@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: iPhone 2.1 Wi-Fi and Exchange
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 41

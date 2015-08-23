@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Fresh Books... fresh take on consulting billing?
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 527

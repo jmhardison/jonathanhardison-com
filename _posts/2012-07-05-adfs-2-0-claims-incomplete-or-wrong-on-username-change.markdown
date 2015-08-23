@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: ADFS 2.0 Claims Incomplete or Wrong on username change.
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 1137

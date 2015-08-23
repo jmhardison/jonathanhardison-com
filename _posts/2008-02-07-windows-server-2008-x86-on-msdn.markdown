@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Windows Server 2008 x86 on MSDN
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 7

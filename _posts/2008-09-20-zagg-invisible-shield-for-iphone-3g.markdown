@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: ZAGG invisible SHIELD for iPhone 3G
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 33

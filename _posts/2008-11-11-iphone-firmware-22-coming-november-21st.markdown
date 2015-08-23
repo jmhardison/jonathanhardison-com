@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: iPhone Firmware 2.2 Coming November 21st?
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 111

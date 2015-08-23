@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Studying for Cisco exams? Get an alternative to a lab!
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 8

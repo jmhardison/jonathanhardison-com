@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Vista SP 1 Released to Technet and MSDN Subscribers
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 9

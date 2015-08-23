@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: U-verse... next generation.
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 425

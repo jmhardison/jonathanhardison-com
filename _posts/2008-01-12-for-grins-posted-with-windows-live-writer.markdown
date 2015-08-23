@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: 'For Grins: Posted with Windows Live Writer'
-author:Jonathan
+author: Jonathan
 author_login: jmhadmin
 author_email: jmh@jonathanhardison.com
 wordpress_id: 5
