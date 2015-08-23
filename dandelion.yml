@@ -1,7 +1,7 @@
 adapter: ftps
-host: $HOST
-username: $USERNAME
-password: $PASSWORD
+host: %{HOST}
+username: %{USERNAME}
+password: %{PASSWORD}
 path: /site/wwwroot/
 
 exclude:
