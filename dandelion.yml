@@ -1,0 +1,11 @@
+adapter: ftps
+host: $HOST
+username: $USERNAME
+password: $PASSWORD
+path: /site/wwwroot/
+
+exclude:
+    - .gitignore
+    - dandelion.yml
+
+local_path: _site
