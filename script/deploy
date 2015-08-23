@@ -1,1 +1,2 @@
-find wwwroot -exec curl --ftp-create-dirs -T {} -u $USERNAME:$PASSWORD ftps://$HOST/site/{} \;
+cd _site
+find . -exec curl --ftp-create-dirs -T {} -u $USERNAME:$PASSWORD ftps://$HOST/{} \;

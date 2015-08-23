@@ -1,2 +1,2 @@
-bundle exec jekyll build --destination wwwroot
+bundle exec jekyll build
 bundle exec htmlproof ./_site --disable-external
