@@ -1,4 +1,6 @@
 cd _site
+git config --global user.email "nulluser@null.com"
+git config --global user.name "Travis-ci build agent"
 git init
 git commit
 git config git-ftp.user $USERNAME
