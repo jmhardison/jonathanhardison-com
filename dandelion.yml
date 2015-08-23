@@ -1,7 +1,7 @@
 adapter: ftps
-host: %{HOST}
-username: %{USERNAME}
-password: %{PASSWORD}
+host: ENV["HOST"]
+username: ENV["USERNAME"]
+password: ENV["PASSWORD"]
 path: /site/wwwroot/
 
 exclude:
