@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jmhardison/jonathanhardison-com.svg)](https://travis-ci.org/jmhardison/jonathanhardison-com)
+[![Build Status](https://travis-ci.org/jmhardison/jonathanhardison-com.svg)](https://travis-ci.org/jmhardison/jonathanhardison-com) [![Dependency Status](https://gemnasium.com/jmhardison/jonathanhardison-com.svg)](https://gemnasium.com/jmhardison/jonathanhardison-com)
 
 # JonathanHardison.com
 
