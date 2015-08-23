@@ -6,9 +6,9 @@ rvm:
 # the `install` step will run `bundle install` by default.
 install:
   - gem install jekyll html-proofer
-  - wget https://github.com/git-ftp/git-ftp/archive/1.0.2.tar.gz
-  - tar -xzvf 1.0.2.tar.gz
-  - cd git-ftp-1.0.2 && ./configure --prefix=$HOME && make && make install
+  - git clone https://github.com/git-ftp/git-ftp.git
+  - cd git-ftp
+  - sudo make install
 
 script:
   - chmod +x script/build
