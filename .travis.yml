@@ -2,9 +2,6 @@ language: ruby
 rvm:
 - 2.1
 
-#require sudo
-sudo: true
-
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
 install: gem install jekyll html-proofer
@@ -24,3 +21,6 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+after_success:
+    "curl --ftp-create-dirs -T uploadfilename -u $USERNAME:$PASSWORD ftp://$HOST/site/wwwroot"
