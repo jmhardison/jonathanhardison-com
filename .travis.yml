@@ -10,8 +10,9 @@ script:
   - chmod +x script/build
   - ./script/build
 after_success:
-  - chmod +x script/deploy
-  - ./script/deploy
+  #- chmod +x script/deploy
+  #- ./script/deploy
+  - "curl --ftp-create-dirs -T /_site -u $USERNAME:$PASSWORD ftps://$HOST/site/wwwroot"
 
 # branch whitelist, only for GitHub Pages
 branches:
