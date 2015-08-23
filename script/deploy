@@ -1,2 +1,2 @@
 cd _site
-find . -exec curl --ftp-create-dirs -T {} -u $USERNAME:$PASSWORD ftp://$HOST/{} \;
+git ftp push -u $USERNAME -p $PASSWORD - ftps://$HOST/site/wwwroot
