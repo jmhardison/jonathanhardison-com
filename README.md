@@ -10,7 +10,6 @@ This repository is for the JonathanHardison.com site in jekyllrb, being converte
 
 Items that are being actively worked on:
 
-  * Correct all posts that were imported, removing all HTML markup and converting to markdown.
   * Integration with CI platforms and autodeployment to hosting platform.
   * Review and archival of un-needed posts.
   * Review and setup of alternative download mechanism for binaries hosted on site. (Keeping out of GitHub for now?)
