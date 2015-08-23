@@ -1,5 +1,2 @@
 cd _site
-for i in $(cat)
-do
-"curl --ftp-create-dirs -T $i -u $USERNAME:$PASSWORD ftp://$HOST/site/wwwroot"
-done
+find . -exec curl --ftp-create-dirs -T {} -u $USERNAME:$PASSWORD ftps://$HOST/site/wwwroot/{} \;
