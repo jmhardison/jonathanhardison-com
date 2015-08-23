@@ -1,2 +1,2 @@
 cd _site
-git ftp push -u $USERNAME -p $PASSWORD - ftps://$HOST/site/wwwroot
+git ftp $DEPLOYTYPE -u $USERNAME -p $PASSWORD - ftps://$HOST/site/wwwroot
