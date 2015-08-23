@@ -1,2 +1,3 @@
 cd _site
+git init
 git ftp $DEPLOYTYPE -f -u $USERNAME -p $PASSWORD - ftps://$HOST/site/wwwroot
