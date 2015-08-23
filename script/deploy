@@ -1,2 +1,2 @@
 cd _site
-find . -exec curl --ftp-create-dirs -T {} -u $USERNAME:$PASSWORD ftps://$HOST/{} \;
+find . -exec curl --ftp-create-dirs -T {} -u $USERNAME:$PASSWORD ftp://$HOST/{} \;
