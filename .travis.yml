@@ -9,6 +9,7 @@ install:
   - git clone https://github.com/git-ftp/git-ftp.git
   - cd git-ftp
   - sudo make install
+  - cd ..
 
 script:
   - chmod +x script/build
