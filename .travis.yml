@@ -8,7 +8,7 @@ install:
   - gem install jekyll html-proofer
   - wget https://github.com/git-ftp/git-ftp/archive/1.0.2.tar.gz
   - tar -xzvf 1.0.2.tar.gz
-  - cd git-ftp-1.0.2 && ./configure --prefix=$HOME/git-ftp && make && make install
+  - cd git-ftp-1.0.2 && ./configure --prefix=$HOME && make && make install
 
 script:
   - chmod +x script/build
