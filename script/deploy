@@ -7,4 +7,4 @@ quit
 EOF
 
 cd _site
-ncftpput -R -v -u "$USERNAME" -p "$PASSWORD" $HOST /site/wwwroot
+ncftpput -R -v -u "$USERNAME" -p "$PASSWORD" $HOST /site/wwwroot .
