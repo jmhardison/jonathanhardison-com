@@ -6,8 +6,8 @@ tags: [Jekyll, theme, themes, responsive, blog, modern]
 comments: false
 image:
   feature: abstract-1.jpg
-  credit: 
-  creditlink: 
+  credit:
+  creditlink:
 ---
 
 {% for post in paginator.posts %}
@@ -55,7 +55,7 @@ image:
       {% if paginator.page == 1 %}
         <span class="current-page">1</span>
       {% else %}
-        <a href="{{ site.url }}">1</a>
+        <a href="/">1</a>
       {% endif %}
     </li>
     {% for count in (2..paginator.total_pages) %}
