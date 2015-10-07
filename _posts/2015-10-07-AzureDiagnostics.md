@@ -15,21 +15,22 @@ been left in the corner. That is until now!
 ![BootDiag]({{site.base}}/imagecontent/2015/10/snip_20151007091513.png)
 
 Microsoft has enhanced Azure to allow for "boot diagnostics" which gives the tenant user the ability to see one of two things.
-1.  If running linux, the serial output stream is collected and displayed.
+
+  * If running linux, the serial output stream is collected and displayed.
 	![LinuxBoot]({{site.base}}/imagecontent/2015/10/snip_20151007092803.png)
-2.  If running windows, the console screen is captured and displayed.
+  * If running windows, the console screen is captured and displayed.
 	![WindowsBoot]({{site.base}}/imagecontent/2015/10/snip_20151007092828.png)
 
 This is not a perfect offering, in that it is only "view" access to the consoles. It is, however, a great step forward from what we used to have access to.
 
 So how does one actually start using this offering? It's quite simple, but it does require a configuration change to any VM that you want to enable the functionality on.
 
-1.  You can start by simply going into the [Azure Preview Portal](http://portal.azure.com){:target="_blank"}.
-2.  After you sign in, navigate to a VM you want to enable functionality on.
-3.  If you have not enable diagnostics on this VM, you will be required to do that. Navigate to "Diagnostics" and enable it, giving it a storage account, and selecting the diag options you want before clicking save.
+  * You can start by simply going into the [Azure Preview Portal](http://portal.azure.com){:target="_blank"}.
+  * After you sign in, navigate to a VM you want to enable functionality on.
+  * If you have not enable diagnostics on this VM, you will be required to do that. Navigate to "Diagnostics" and enable it, giving it a storage account, and selecting the diag options you want before clicking save.
 	![NoBootDiag]({{site.base}}/imagecontent/2015/10/snip_20151007092029.png)
-	1.  You can actually complete enabling the diagnostics and boot diagnostics in this one step. Just be sure you select "boot diagnostics".
+	* You can actually complete enabling the diagnostics and boot diagnostics in this one step. Just be sure you select "boot diagnostics".
 		![EnableBootDiag]({{site.base}}/imagecontent/2015/10/snip_20151007092045.png)
-4.  If you have enabled diagnostics already o this VM, you can go into "Diagnostics" and tick "Boot Diagnostics" to enable that functionality. If you go into "Boot Diagnostics" without it enabled, it will allow you to enable it as well.
+  * If you have enabled diagnostics already o this VM, you can go into "Diagnostics" and tick "Boot Diagnostics" to enable that functionality. If you go into "Boot Diagnostics" without it enabled, it will allow you to enable it as well.
 
 Pretty simple... Now reboot your VM and you should start to receive collected information in the "Boot Diagnostics" screen.
