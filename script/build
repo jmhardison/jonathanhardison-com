@@ -1,4 +1,8 @@
 rm -rf _site || exit 0;
 mkdir _site;
+cd _site
+git clone https://www.github.com/jmhardison/jonathanhardison-com --branch site-deploy --single-branch
+cd ..
+
 bundle exec jekyll build
 bundle exec htmlproof ./_site --disable-external
