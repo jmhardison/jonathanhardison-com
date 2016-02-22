@@ -6,5 +6,5 @@ if [ "${TRAVIS_PULL_REQUEST}" = "false" ]; then
     git config --global user.name "Travis-ci build agent - JMH"
     git add --all .
     git commit -a -m "Build and deploy"
-    git push "${GH_TOKEN}@${GH_REF}" jonathanhardison-com:site-deploy
+    git push "https://${GH_TOKEN}@${GH_REF}" jonathanhardison-com:site-deploy
 fi
