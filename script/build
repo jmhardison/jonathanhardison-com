@@ -1,2 +1,4 @@
+rm -rf _site || exit 0;
+mkdir _site;
 bundle exec jekyll build
 bundle exec htmlproof ./_site --disable-external
