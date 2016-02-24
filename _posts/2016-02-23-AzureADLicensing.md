@@ -13,7 +13,7 @@ discussions result in the resounding confirmation that those licenses are just n
 
 Under the covers, the issue is simply that licenses for Azure AD are assigned to an Agreement Number (AN). That AN is then assigned to a tenant in Azure AD. And here is the kicker... One AN cannot be
 assigned or shared between tenants. But how do you get an AN? Well simple, you just have to go back through the license process... well not so simple. Getting those agreements set up is like an act of
-congress. Not to mention, if you work for a company that has a legal department, you have just commited yourself to a fine dining experience with some lawyers. All to no avail... you see, my believe is that
+congress. Not to mention, if you work for a company that has a legal department, you have just commited yourself to a fine dining experience with some lawyers. All to no avail... you see, my belief is that
 Microsoft doesn't actually 'want' to sell these things. If they did, they wouldn't be one of the only components of Azure that do not work like a consumptive service. DevOps mentality shattering, 1990's style
 ordering is it's preference. That's right, no button to purchase, but you can pick up the phone and call third party distributor! Taste's like modern, no?
 
