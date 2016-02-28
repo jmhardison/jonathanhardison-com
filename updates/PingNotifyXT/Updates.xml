@@ -1,0 +1,8 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<AppUpdate xmlns="http://www.jonathanhardison.com/Updates/SDD/XMLSchema-Updater.xsd">
+  <!--Updates for PingNotifyXT-->
+  <VersionAvailable>0.9.0.0</VersionAvailable>
+  <VersionAvailableNotes>Version 0.9.0.0 initial beta release of PingNotifyXT</VersionAvailableNotes>
+  <VersionAvailableDownloadLocation>http://updater.jonathanhardison.com/PingNotifyXT/0.9.0.0/localinstall.zip</VersionAvailableDownloadLocation>
+  <VersionAvailablePostDate>2009-11-03T11:50:01.00001</VersionAvailablePostDate>
+</AppUpdate>

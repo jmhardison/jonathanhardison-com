@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchema-Updater"
+    targetNamespace="http://www.jonathanhardison.com/Updates/WME/XMLSchema-Updater.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://www.jonathanhardison.com/Updates/WME/XMLSchema-Updater.xsd"
+    xmlns:mstns="http://www.jonathanhardison.com/Updates/WME/XMLSchema-Updater.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="AppUpdate">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="1">
+        <xs:element name="VersionAvailable" type="xs:string"/>
+        <xs:element name="VersionAvailableNotes" type="xs:string"/>
+        <xs:element name="VersionAvailableDownloadLocation" type="xs:string"/>
+        <xs:element name="VersionAvailablePostDate" type="xs:dateTime"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

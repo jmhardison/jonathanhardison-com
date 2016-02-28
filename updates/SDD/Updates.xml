@@ -1,0 +1,9 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<AppUpdate xmlns="http://www.jonathanhardison.com/Updates/SDD/XMLSchema-Updater.xsd">
+  <!--Updates for SDD - Sharepoint Data Dump-->
+  <VersionAvailable>1.3.0.0</VersionAvailable>
+  <VersionAvailableNotes>Version 1.3.0.0 adds some error handling to the export process, allowing exports to continue in an error condition. 
+  This is a manual update, please browse to your install directory and launch localinstall.msi. This manual update condition is resolved in future versions by the inclusion of an updated Updater.exe.</VersionAvailableNotes>
+  <VersionAvailableDownloadLocation>http://updater.jonathanhardison.com/SDD/1.3.0.0/localinstall.zip</VersionAvailableDownloadLocation>
+  <VersionAvailablePostDate>2010-06-30T11:50:01.00001</VersionAvailablePostDate>
+</AppUpdate>
