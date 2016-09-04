@@ -1,70 +1,40 @@
-title:            www.JonathanHardison.com
-description:      Crazy Man Cage
-disqus_shortname: jonathanhardison
-reading_time:     true
-words_per_minute: 200
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally leave blank or use http://localhost:4000
-url: 
-
-# Owner/author information
-owner:
-  name:           Jonathan Hardison
-  avatar:         avatar.jpg
-  bio:            "Networking, Systems, Programming, and Solutions Architect."
-  email:
-  # Social networking links used in footer. Update and remove as you like.
-  twitter: jhardison
-  facebook:
-  github: jmhardison
-  stackexchange:
-  linkedin: jonathanhardison
-  instagram:
-  flickr:
-  tumblr:
-  # google plus id, include the '+', eg +mmistakes
-  google_plus:
-
-# Background image to be tiled on all pages
-background:
-
-# Analytics and webmaster tools stuff goes here
-google_analytics: UA-73380426-1
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# Site settings
+title: www.JonathanHardison.com
+description: 'Crazy Man Cage'
+url: 'http://www.jonathanhardison.com'
+baseurl: '/'
+google_analytics: 'UA-73380426-1'
 bing_verify: A80D6529E57BAE1CA8C5185C522957CA
+disqus_shortname: 'jonathanhardison'
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Chicago
-future:      true
-highlighter: Rouge
-markdown:    kramdown
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
-sass:
-  sass_dir: _sass
-  style: compressed
+author:
+  name: 'Jonathan Hardison'
+  email: jmh@jonathanhardison.com
+  twitter_username: jhardison
+  #facebook_username: joshgerde
+  github_username:  jmhardison
+  linkedin_username:  jonathanhardison
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
 
-# Amount of post to show on home page
-paginate: 5
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
 
 kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: true
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
-  coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-include: [".htaccess"]
-exclude: ["vendor", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
