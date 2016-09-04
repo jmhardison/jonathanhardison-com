@@ -5,8 +5,9 @@ rvm:
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
 install:
-  - gem install jekyll html-proofer sass jekyll-sitemap jekyll-paginate
-
+  #- gem install jekyll html-proofer sass jekyll-sitemap jekyll-paginate
+  - gem install github-pages
+  
 script:
   - chmod +x script/build
   - ./script/build

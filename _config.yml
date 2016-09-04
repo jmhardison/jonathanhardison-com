@@ -1,5 +1,5 @@
 # Site settings
-title: www.JonathanHardison.com
+title: Jonathan Hardison
 description: 'Crazy Man Cage'
 url: 'http://www.jonathanhardison.com'
 baseurl: '/'
@@ -9,7 +9,7 @@ disqus_shortname: 'jonathanhardison'
 
 author:
   name: 'Jonathan Hardison'
-  email: jmh@jonathanhardison.com
+  #email: jmh@jonathanhardison.com
   twitter_username: jhardison
   #facebook_username: joshgerde
   github_username:  jmhardison

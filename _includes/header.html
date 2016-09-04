@@ -67,8 +67,9 @@
               </li>
             {% endif %}
 
+            <!-- Removed
             {% if site.author.email %}
-              <!-- Email -->
+              
               <li class="navigation__item">
                 <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
                   <i class="icon icon-mail"></i>
@@ -76,18 +77,25 @@
                 </a>
               </li>
             {% endif %}
-
-            <!-- RSS -->
+            -->
+            <!-- RSS
             <li class="navigation__item">
               <a href="{{ "feed.xml" | prepend: site.baseurl }}" title="Subscribe" target="_blank">
                 <i class="icon icon-rss"></i>
                 <span class="label">RSS</span>
               </a>
             </li>
+ -->
+
           
             </ul>
           </nav>
-
+            <!-- Resume -->
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="http://resume.jonathanhardison.com" title="link to {{ site.title }} Resume" class="blog-button">Resume</a></li>
+            </ul>
+          </nav>
         </div>
 
       </div>
