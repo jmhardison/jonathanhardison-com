@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "2016 Extra Life"
+title:  "Extra Life 2016"
 date:   2016-09-04 19:40:42
 categories: general
 author: Jonathan
 comments: true
 share:
 ---
-Good day all!
-
 I have for a couple years now participated in Extra Life in order to raise money for kids. This year is no different. I hope that if you have time to read this, you might also find
 it in your heart to give to the cause. I feel it's important to do what we can to support and help those around us, especially children who are not always in a position to help themselves.
 
