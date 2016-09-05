@@ -10,6 +10,7 @@ share:
 One of the issues that has existed with Azure as a cloud service provider was the simple lack of any access to the console. While it is understood the need for that access is rare, it is a valuable
 diagnostic tool for when the state of your system falls on its face. Other cloud providers give access to the console not only for diagnostic processes, but also for operational use. But Azure has
 been left in the corner. That is until now!
+
 ![BootDiag]({{site.base}}/imagecontent/2015/10/snip_20151007091513.png)
 
 Microsoft has enhanced Azure to allow for "boot diagnostics" which gives the tenant user the ability to see one of two things.
