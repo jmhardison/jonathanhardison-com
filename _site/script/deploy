@@ -1,0 +1,10 @@
+# if $TRAVIS_PULL_REQUEST is false, then deploy.
+echo ${TRAVIS_PULL_REQUEST}
+if [ "${TRAVIS_PULL_REQUEST}" = "false" ]; then
+    cd _site
+    git config --global user.email "jmh@jonathanhardison.com"
+    git config --global user.name "Travis-ci build agent - JMH"
+    git add --all .
+    git commit -a -m "Build and deploy"
+    git push --quiet "https://${GH_TOKEN}@${GH_REF}" gh-pages:gh-pages > /dev/null 2>&1
+fi

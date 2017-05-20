@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Hardison</title>
+    <description>Crazy Man Cage</description>
+    <link>http://www.jonathanhardison.com//</link>
+    <atom:link href="http://www.jonathanhardison.com//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 20 May 2017 14:27:51 -0500</pubDate>
+    <lastBuildDate>Sat, 20 May 2017 14:27:51 -0500</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Ignite 2017</title>
+        <description>&lt;p&gt;Good day all!&lt;/p&gt;
+
+&lt;p&gt;So for a third year in a row, I will be traveling to attend in Microsoft Ignite. This year it happens to be at the Orange County Convention Center in Orlando Florida. (For good or bad…) Already registered, flight setup and hotel in pending registration. Yes I’m early, but dag nabbit its such a tiny little area of hotels. And of course now that I’m writing this, I get my hotel confirmation. Boom!&lt;/p&gt;
+
+&lt;p&gt;What things are you looking forward to this year? Here’s some of my high points:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Take another Python session! - Last year I took the only one, I’m hoping there’s more this year.&lt;/li&gt;
+  &lt;li&gt;Moar container information and roadmaps!&lt;/li&gt;
+  &lt;li&gt;Linux! Yes this is Ignite, but remember… Microsoft “loves” linux!&lt;/li&gt;
+  &lt;li&gt;Someplace other than Atlanta’s convention center with the temporarily out of commission escalators!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you are going, see you there!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Apr 2017 20:00:00 -0500</pubDate>
+        <link>http://www.jonathanhardison.com//2017/Ignite2017/</link>
+        <guid isPermaLink="true">http://www.jonathanhardison.com//2017/Ignite2017/</guid>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to 2017</title>
+        <description>&lt;p&gt;Happy New Year! It is once again time to usher in the infamous reboot-de-year. Here’s to hope the new year will carry us forward, and not drown us in waves.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Jan 2017 19:00:00 -0600</pubDate>
+        <link>http://www.jonathanhardison.com//2017/welcometo2017/</link>
+        <guid isPermaLink="true">http://www.jonathanhardison.com//2017/welcometo2017/</guid>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>Extra Life 2016</title>
+        <description>&lt;p&gt;I have for a couple years now participated in Extra Life in order to raise money for kids. This year is no different. I hope that if you have time to read this, you might also find
+it in your heart to give to the cause. I feel it’s important to do what we can to support and help those around us, especially children who are not always in a position to help themselves.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;That time again. I&amp;#39;m participating in Extra life 2016 to raise money for children&amp;#39;s miracle network. Donate today! &lt;a href=&quot;https://t.co/e9uMy8Qak1&quot;&gt;https://t.co/e9uMy8Qak1&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jonathan Hardison (@jhardison) &lt;a href=&quot;https://twitter.com/jhardison/status/727207238037729280&quot;&gt;May 2, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Sun, 04 Sep 2016 14:40:42 -0500</pubDate>
+        <link>http://www.jonathanhardison.com//2016/ExtraLife/</link>
+        <guid isPermaLink="true">http://www.jonathanhardison.com//2016/ExtraLife/</guid>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>Azure AD Licensing Woes?!</title>
+        <description>&lt;p&gt;For anyone trying to acquire Azure AD Basic Licenses for a tenant other than your default corporate tenant within an Enterprise Agreement (think o365 here), you might just be out of luck.
+In working with Microsoft we’ve figured out that effectively nobody within their organization fully understands how to both sell the licenses, as well as support them. Numerous premier cases and
+discussions result in the resounding confirmation that those licenses are just not meant for anyone.&lt;/p&gt;
+
+&lt;p&gt;Under the covers, the issue is simply that licenses for Azure AD are assigned to an Agreement Number (AN). That AN is then assigned to a tenant in Azure AD. And here is the kicker… One AN cannot be
+assigned or shared between tenants. But how do you get an AN? Well simple, you just have to go back through the license process… well not so simple. Getting those agreements set up is like an act of
+congress. Not to mention, if you work for a company that has a legal department, you have just commited yourself to a fine dining experience with some lawyers. All to no avail… you see, my belief is that
+Microsoft doesn’t actually ‘want’ to sell these things. If they did, they wouldn’t be one of the only components of Azure that do not work like a consumptive service. DevOps mentality shattering, 1990’s style
+ordering is it’s preference. That’s right, no button to purchase, but you can pick up the phone and call third party distributor! Taste’s like modern, no?&lt;/p&gt;
+
+&lt;p&gt;So what do you do?! If you are wanting to use Azure AD as an auth store, maybe for a cloud application, what are you to do?&lt;/p&gt;
+
+&lt;p&gt;Enter, Azure AD B2C… the thing that takes Azure AD, mucks with it’s license setup and associates it to a subscription with duck tape and bailing wire.
+I have this believe that before Azure AD changed ownership inside Microsoft that the original group thought up Basic Licensing, and the new group through up B2C. Just an observation from the outside world.
+Seriously, why would we have a half baked product license for the old one that has no automated order process, replaced by a kind-of-new-kinda-old one that removes it and makes it consumptive?&lt;/p&gt;
+
+&lt;p&gt;Either way, both need some serious attention from the user experience department. Azure AD and Azure AD B2C both feel and act like an afterthought… a monster created by a mad scientist using spare body parts.&lt;/p&gt;
+
+&lt;p&gt;/Rant&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Feb 2016 15:04:42 -0600</pubDate>
+        <link>http://www.jonathanhardison.com//2016/AzureADLicensing/</link>
+        <guid isPermaLink="true">http://www.jonathanhardison.com//2016/AzureADLicensing/</guid>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>Azure Adds Boot Diagnostics!</title>
+        <description>&lt;p&gt;One of the issues that has existed with Azure as a cloud service provider was the simple lack of any access to the console. While it is understood the need for that access is rare, it is a valuable
+diagnostic tool for when the state of your system falls on its face. Other cloud providers give access to the console not only for diagnostic processes, but also for operational use. But Azure has
+been left in the corner. That is until now!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/imagecontent/2015/10/snip_20151007091513.png&quot; alt=&quot;BootDiag&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Microsoft has enhanced Azure to allow for “boot diagnostics” which gives the tenant user the ability to see one of two things.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If running linux, the serial output stream is collected and displayed.
+&lt;img src=&quot;/imagecontent/2015/10/snip_20151007092803.png&quot; alt=&quot;LinuxBoot&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;If running windows, the console screen is captured and displayed.
+&lt;img src=&quot;/imagecontent/2015/10/snip_20151007092828.png&quot; alt=&quot;WindowsBoot&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is not a perfect offering, in that it is only “view” access to the consoles. It is, however, a great step forward from what we used to have access to.&lt;/p&gt;
+
+&lt;p&gt;So how does one actually start using this offering? It’s quite simple, but it does require a configuration change to any VM that you want to enable the functionality on.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You can start by simply going into the &lt;a href=&quot;http://portal.azure.com&quot; target=&quot;_blank&quot;&gt;Azure Preview Portal&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;After you sign in, navigate to a VM you want to enable functionality on.&lt;/li&gt;
+  &lt;li&gt;If you have not enable diagnostics on this VM, you will be required to do that. Navigate to “Diagnostics” and enable it, giving it a storage account, and selecting the diag options you want before clicking save.
+&lt;img src=&quot;/imagecontent/2015/10/snip_20151007092029.png&quot; alt=&quot;NoBootDiag&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;You can actually complete enabling the diagnostics and boot diagnostics in this one step. Just be sure you select “boot diagnostics”.
+  &lt;img src=&quot;/imagecontent/2015/10/snip_20151007092045.png&quot; alt=&quot;EnableBootDiag&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If you have enabled diagnostics already o this VM, you can go into “Diagnostics” and tick “Boot Diagnostics” to enable that functionality. If you go into “Boot Diagnostics” without it enabled, it will allow you to enable it as well.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pretty simple… Now reboot your VM and you should start to receive collected information in the “Boot Diagnostics” screen.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Oct 2015 04:04:42 -0500</pubDate>
+        <link>http://www.jonathanhardison.com//2015/AzureDiagnostics/</link>
+        <guid isPermaLink="true">http://www.jonathanhardison.com//2015/AzureDiagnostics/</guid>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>Site Migration to Jekyll</title>
+        <description>&lt;p&gt;#Salutations!
+So after much delay, I’ve sat down and worked on my site a bit. But… never content with good things, I decided to do another migration.&lt;/p&gt;
+
+&lt;p&gt;You see, I’ve contributed a few document fixes to the Microsoft IOT project on GitHub, and through that was exposed to &lt;a href=&quot;http://www.jekyllrb.com&quot; target=&quot;_blank&quot;&gt;JekyllRB&lt;/a&gt;. To put it simply, I was struck by the concept and decided to change my entire site over to it.&lt;/p&gt;
+
+&lt;p&gt;So as you see now, I’ve moved from WordPress to Jekyll. Storing my site’s data in &lt;a href=&quot;https://github.com/jmhardison/jonathanhardison-com&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt;, and using &lt;a href=&quot;http://www.travis-ci.org&quot; target=&quot;_blank&quot;&gt;Travis-CI&lt;/a&gt; for continuous integration and testing.&lt;/p&gt;
+
+&lt;p&gt;This will be a fun and intersting ride… and I’ve even though of bringing the idea of content creation in markup to my work for the documentation I build. Write it in markup, track it in Git, and compile it to the formatted document. Mmmm tasty.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Aug 2015 08:04:42 -0500</pubDate>
+        <link>http://www.jonathanhardison.com//2015/migrationtojekyll/</link>
+        <guid isPermaLink="true">http://www.jonathanhardison.com//2015/migrationtojekyll/</guid>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>Happy New Year!</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/imagecontent/2014/12/2015-firework-reflection-300x210.jpg&quot; alt=&quot;Fireworks&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As we bring in 2015, and time seems to march onward ever so strongly, I say to you…
+Happy New Year!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Jan 2015 00:00:49 -0600</pubDate>
+        <link>http://www.jonathanhardison.com//2015/happy-new-year-2/</link>
+        <guid isPermaLink="true">http://www.jonathanhardison.com//2015/happy-new-year-2/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>Crap it's been a while!</title>
+        <description>&lt;p&gt;In case you noticed, it was July 2012 when I last posted. I may have some other pages kept current, but still that’s a long time.&lt;/p&gt;
+
+&lt;p&gt;I plan to do some more dumps on here in the future. So keep an eye out, and hello again!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 16 Mar 2014 20:26:12 -0500</pubDate>
+        <link>http://www.jonathanhardison.com//2014/crap-its-been-a-while/</link>
+        <guid isPermaLink="true">http://www.jonathanhardison.com//2014/crap-its-been-a-while/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>Migration to NameCheap</title>
+        <description>&lt;p&gt;Just finished migrating over to NameCheap for site hosting from JustHost. My subscription with JustHost was set to expire after several years with them, and I didn’t really have a desire to stay there. Initially their services were decent, but they slowly became degraded over time. Additionally, they were very quick to cancel your service if you used too much resources.&lt;/p&gt;
+
+&lt;p&gt;So why did I choose NameCheap this time around? Well first I will say I have not gone back to GoDaddy since their whole scandal surrounding &lt;a href=&quot;http://news.cnet.com/8301-31921_3-57349913-281/godaddy-bows-to-boycott-now-opposes-sopa-copyright-bill/&quot; target=&quot;_blank&quot;&gt;GoDaddy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So since they were out of the picture I decided to look for someone who might be doing things a bit different. And since I’m toying around with Bitcoin right now, seemed a good thing to check out who accepts it as payment. NameCheap fit the bill in that you can deposit and ‘amount’ into your account via BitPay, and then use it to make purchases.&lt;/p&gt;
+
+&lt;p&gt;Rather than the checkout integration where you can pay at checkout, the account funding is a few more steps. So fund your account with an amount, or “preload” if you will. Then you can use that amount to purchase anything they offer.
+Pretty cool regardless if it wasn’t directly checkout integrated!&lt;/p&gt;
+
+&lt;p&gt;So far my experience has been pretty good, their services are much faster than JustHost had become which is nice to see. Of course time will tell if they remain so, but it’s a good start. Don’t forget to look for coupons if you do choose their services… as just like everything else the ability to get instant discounts is out there.&lt;/p&gt;
+
+&lt;p&gt;Check out the following site for some quick coupons:
+ &lt;a href=&quot;Http://www.namecheap.com?aff=64159&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://files.namecheap.com/graphics/linkus/468x60-6.gif&quot; alt=&quot;img&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 16 Mar 2014 10:59:00 -0500</pubDate>
+        <link>http://www.jonathanhardison.com//2014/migration-to-namecheap/</link>
+        <guid isPermaLink="true">http://www.jonathanhardison.com//2014/migration-to-namecheap/</guid>
+        
+        
+        <category>Internet</category>
+        
+      </item>
+    
+      <item>
+        <title>IPv6 Time!</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/imagecontent/2012/07/World_IPv6_launch_badge_512-300x300.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ok so my site wasn’t able to participate last year, nor has it been dual-stacked…. yet. But last year I did participate in the world wide test using a software tunnel client. Yesterday I have upgraded my home network to include an IPv6 tunnel with HE.net and have fully implemented IPv6/IPv4 dual stack in home.&lt;/p&gt;
+
+&lt;p&gt;I’m currently working on either transitioning my web site to a host that supports IPv6, or I will put it behind something like CloudFlare that will provide a front end IPv6 listener and direct it to the back-end IPv4 server.&lt;/p&gt;
+
+&lt;p&gt;I’ll post my setup here some day… but the high level for now is this:
+Uverse GW (inside router set to dmz) -&amp;gt; Vyatta Router 6.4 esxi -&amp;gt; internal vlan’s.&lt;/p&gt;
+
+&lt;p&gt;The Vyatta Router handles the tunnel to HE.net in addition to the IPv4 stack. All internal VLAN’s are then addressed with their own /64’s. (Trying to keep in line with the RFC’s, but to subnet it down beyond that is about wasted effort. See this &lt;a href=&quot;http://archive.apnic.net/meetings/26/program/apops/matsuzaki-ipv6-p2p.pdf&quot; target=&quot;_blank&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As for my website itself, I may not have been able to dual stack the servers themselves, but I have managed to get IPv6 accessibility by using the services provided by &lt;a href=&quot;http://www.cloudflare.com&quot; target=&quot;_blank&quot;&gt;CloudFlare&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;With the help of CloudFlare, not only have I gained IPv6 but I have also gained Geo-Location content serving through their globally distributed cache acceleration network.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Jul 2012 20:57:38 -0500</pubDate>
+        <link>http://www.jonathanhardison.com//2012/ipv6-time/</link>
+        <guid isPermaLink="true">http://www.jonathanhardison.com//2012/ipv6-time/</guid>
+        
+        
+        <category>Internet</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -6,3 +6,4 @@ source 'https://rubygems.org'
 gem 'jekyll'
 gem 'jekyll-paginate'
 #gem 'RedCloth'
+gem "rack-jekyll"
