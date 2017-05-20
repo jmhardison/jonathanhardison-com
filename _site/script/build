@@ -1,9 +1,0 @@
-rm -rf _site || exit 0;
-mkdir _site;
-cd _site
-git clone https://www.github.com/jmhardison/jonathanhardison-com --branch gh-pages --single-branch .
-cd ..
-
-bundle install
-bundle exec jekyll build
-bundle exec htmlproofer ./_site --disable-external --url-ignore '#blog','/#blog'
