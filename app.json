@@ -1,0 +1,16 @@
+{
+  "name": "jonathanhardison-com",
+  "scripts": {},
+  "env": {
+    "LANG": {
+      "required": true
+    }
+  },
+  "formation": {},
+  "addons": [],
+  "buildpacks": [
+    {
+      "url": "http://github.com/mattmanning/heroku-buildpack-ruby-jekyll.git"
+    }
+  ]
+}
