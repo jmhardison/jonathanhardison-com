@@ -1,5 +1,5 @@
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     addressable (2.5.1)
       public_suffix (~> 2.0, >= 2.0.2)
@@ -46,9 +46,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-paginate
-
-RUBY VERSION
-   ruby 2.3.3p222
 
 BUNDLED WITH
    1.15.0
