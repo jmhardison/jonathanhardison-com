@@ -8,9 +8,5 @@
   },
   "formation": {},
   "addons": [],
-  "buildpacks": [
-    {
-      "url": "http://github.com/mattmanning/heroku-buildpack-ruby-jekyll.git"
-    }
-  ]
+  "buildpacks": []
 }
