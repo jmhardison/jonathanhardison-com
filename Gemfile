@@ -1,11 +1,6 @@
 source :rubygems
 ruby '2.3.4'
-#source 'https://rubygems.org'
-#gem 'json', '~> 2.0', '>= 2.0.3'
-gem 'json'#, github: 'flori/json', branch: 'v1.8'
-#gem 'github-pages', '~> 133'
-#gem 'github-pages'
+gem 'json'
 gem 'html-proofer', '~> 3.6'
-#gem 'html-proofer'
 gem 'jekyll'
 gem 'RedCloth'
