@@ -10,6 +10,3 @@ Resume is powered by VisualCV.com.
 
 ## Works In Progress
 
-Items that are being actively worked on:
-
-  * Review and setup of alternative download mechanism for binaries hosted on site. (Keeping out of GitHub for now?)
