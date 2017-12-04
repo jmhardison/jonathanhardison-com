@@ -82,7 +82,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  html-proofer (~> 3.7.2)
+  html-proofer (~> 3.7.4)
   jekyll
   jekyll-paginate
   rack-jekyll

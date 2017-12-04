@@ -6,4 +6,7 @@ ignore:
     - '* > html-proofer@3.7.2':
         reason: None given
         expires: '2017-12-22T14:22:19.286Z'
+    - '* > html-proofer@3.7.4':
+        reason: None given
+        expires: '2018-01-03T14:27:08.465Z'
 patch: {}
