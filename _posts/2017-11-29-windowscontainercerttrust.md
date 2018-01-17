@@ -16,7 +16,7 @@ Lets say you are building a container, for example a windows based container tha
 
 No problem, we can fix the SSL errors by doing what we would normally do... trusting the root cert.
 
-So to do this, you will need to get your hands on the cert and its chain. If you are on a machine that trusts it, you should be able to find it in your computers tr
+So to do this, you will need to get your hands on the cert and its chain. If you are on a machine that trusts it, you should be able to find it in your computers trusted certificate authorities.
 
 
   * Open MMC, add the certificates snap-in and manage "Computer Account".
