@@ -12,7 +12,7 @@ One of the things that has alway been in the back of my mind, as a constant grav
 
 So recently, or not recently, honestly I don't remember when I actually clicked the buttons but at SOME point I signed up for the Udacity Grow with Google Challenge. Well, I got the email saying I was accepted into that program!
 
-![gwgimage]({{site.base}}/imagecontent/2018/01/GrowWithGoogleDeveloperChallengeScholarship.png
+![gwgimage]({{site.base}}/imagecontent/2018/01/GrowWithGoogleDeveloperChallengeScholarship.png)
 
 Working through the course re-ignited that passion, and increased the gravitational forces pulling at me. The desire to see a new path might just be taking hold. We'll have to see.
 
