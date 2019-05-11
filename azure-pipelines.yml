@@ -6,18 +6,61 @@
 trigger:
 - master
 
-pool:
-  vmImage: 'ubuntu-latest'
+resources:
+  - repo: self
+    fetchDepth: 1
 
-steps:
-- task: Docker@0
-  displayName: 'Run Jekyll'
-  inputs:
-    containerRegistryType: 'Container Registry'
-    action: 'Run an image'
-    imageName: 'jekyll/builder:latest'
-    volumes: |
-      $(build.sourcesDirectory):/srv/jekyll
-      $(build.binariesDirectory):/srv/jekyll/_site
-    containerCommand: 'jekyll build --future'
-    detached: false
+#jobs to do dev or prod builds
+jobs:
+  - job: BuildStage
+    pool:
+      name: 'ubuntu-latest'
+    steps:
+    - task: Docker@0
+      displayName: 'Run Jekyll'
+      inputs:
+        containerRegistryType: 'Container Registry'
+        action: 'Run an image'
+        imageName: 'jekyll/builder:latest'
+        volumes: |
+          $(build.sourcesDirectory):/srv/jekyll
+          $(build.sourcesDirectory)/_site:/srv/jekyll/_site
+        containerCommand: 'jekyll build --future'
+        detached: false
+    - task: ArchiveFiles@2
+      inputs:
+        rootFolderOrFile: '$(build.sourcesDirectory)' 
+        includeRootFolder: false
+        archiveType: 'zip' # Options: zip, 7z, tar, wim
+        #tarCompression: 'gz' # Optional. Options: gz, bz2, xz, none
+        archiveFile: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip' 
+        replaceExistingArchive: true
+    - task: PublishPipelineArtifact@0
+      inputs:
+        artifactName: 'zipfile'
+        targetPath: '$(Build.ArtifactStagingDirectory)'
+  - job: ReleaseStage
+    pool:
+      name: 'ubuntu-latest'
+    dependsOn: BuildStage
+    condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/master')) #master
+    variables:
+      - group: Firebase
+    steps:
+    - task: DownloadPipelineArtifact@0
+      inputs:
+        artifactName: 'zipfile'
+        targetPath: '$(Build.ArtifactStagingDirectory)'
+    - task: ExtractFiles@1
+      inputs:
+        archiveFilePatterns: '$(Build.BuildId).zip' 
+        destinationFolder: $(Build.ArtifactStagingDirectory)
+        #cleanDestinationFolder: true 
+    - task: Npm@1
+      inputs:
+        command: 'custom' # Options: install, publish, custom
+        customCommand: 'install firebase' # Required when command == Custom
+    - task: Bash@3
+      inputs:
+        script: 'firebase deploy --token $(fb_ci_token) --project $(fb_projectid) --message "Release: $(Build.BuildId)"'
+        workingDirectory: '$(Build.ArtifactStagingDirectory)'
