@@ -60,7 +60,7 @@ jobs:
       inputs:
         containerRegistryType: 'Container Registry'
         action: 'Run an image'
-        imageName: 'jmhardison/firebasetools:latest'
+        imageName: 'jhardison/firebasetools:latest'
         volumes: |
           $(build.sourcesDirectory)/extract:/opt/work
         containerCommand: 'jekyll build --future'
