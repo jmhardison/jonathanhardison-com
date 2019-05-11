@@ -68,4 +68,4 @@ jobs:
     - task: Bash@3
       inputs:
         script: 'firebase deploy --token $(fb_ci_token) --project $(fb_projectid) --message "Release: $(Build.BuildId)"'
-        workingDirectory: '$(Build.ArtifactStagingDirectory)/extract'
+        workingDirectory: '$(build.sourcesDirectory)/extract'
