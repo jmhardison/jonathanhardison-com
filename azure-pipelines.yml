@@ -67,5 +67,7 @@ jobs:
         customCommand: 'install firebase' # Required when command == Custom
     - task: Bash@3
       inputs:
+        targetType: inline
         script: 'firebase deploy --token $(fb_ci_token) --project $(fb_projectid) --message "Release: $(Build.BuildId)"'
         workingDirectory: '$(build.sourcesDirectory)/extract'
+
