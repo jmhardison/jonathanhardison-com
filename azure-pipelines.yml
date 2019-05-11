@@ -14,7 +14,7 @@ resources:
 jobs:
   - job: BuildStage
     pool:
-      name: 'ubuntu-latest'
+      name: 'Hosted Ubuntu 1604'
     steps:
     - task: Docker@0
       displayName: 'Run Jekyll'
@@ -39,9 +39,10 @@ jobs:
       inputs:
         artifactName: 'zipfile'
         targetPath: '$(Build.ArtifactStagingDirectory)'
+
   - job: ReleaseStage
     pool:
-      name: 'ubuntu-latest'
+      name: 'Hosted Ubuntu 1604'
     dependsOn: BuildStage
     condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/master')) #master
     variables:
