@@ -14,7 +14,7 @@ resources:
 jobs:
   - job: BuildStage
     pool:
-      name: 'ubuntu-latest'
+      name: 'OnPremises'
     steps:
     - task: Docker@0
       displayName: 'Run Jekyll'
@@ -42,7 +42,7 @@ jobs:
 
   - job: ReleaseStage
     pool:
-      name: 'ubuntu-latest'
+      name: 'OnPremises'
     dependsOn: BuildStage
     condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/master')) #master
     variables:
