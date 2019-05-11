@@ -1,8 +1,3 @@
-# Jekyll site
-# Package your Jekyll site using the jekyll/builder Docker container image.
-# Add steps that build, test, save build artifacts, deploy, and more:
-# https://aka.ms/yaml
-
 trigger:
 - master
 
@@ -33,8 +28,7 @@ jobs:
       inputs:
         rootFolderOrFile: '$(build.sourcesDirectory)' 
         includeRootFolder: false
-        archiveType: 'zip' # Options: zip, 7z, tar, wim
-        #tarCompression: 'gz' # Optional. Options: gz, bz2, xz, none
+        archiveType: 'zip'
         archiveFile: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip' 
         replaceExistingArchive: true
     - task: PublishPipelineArtifact@0
@@ -60,11 +54,11 @@ jobs:
       inputs:
         archiveFilePatterns: '$(Build.BuildId).zip' 
         destinationFolder: '$(build.sourcesDirectory)/extract'
-        #cleanDestinationFolder: true 
+        cleanDestinationFolder: true
     - task: Npm@1
       inputs:
-        command: 'custom' # Options: install, publish, custom
-        customCommand: 'install firebase' # Required when command == Custom
+        command: 'custom'
+        customCommand: 'install firebase-tools'
     - task: Bash@3
       inputs:
         targetType: inline
