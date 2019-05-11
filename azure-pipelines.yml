@@ -58,7 +58,7 @@ jobs:
     - task: Npm@1
       inputs:
         command: 'custom'
-        customCommand: 'install firebase-tools'
+        customCommand: 'install -g firebase-tools'
     - task: Bash@3
       inputs:
         targetType: inline
