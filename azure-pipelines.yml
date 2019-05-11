@@ -55,13 +55,17 @@ jobs:
         archiveFilePatterns: '$(Build.BuildId).zip' 
         destinationFolder: '$(build.sourcesDirectory)/extract'
         cleanDestinationFolder: true
-    - task: Npm@1
-      inputs:
-        command: 'custom'
-        customCommand: 'install -g firebase-tools'
-    - task: Bash@3
-      inputs:
-        targetType: inline
-        script: 'firebase deploy --token $(fb_ci_token) --project $(fb_projectid) --message "Release: $(Build.BuildId)"'
-        workingDirectory: '$(build.sourcesDirectory)/extract'
-
+    - task: Docker@0
+        displayName: 'Run Firebase Deploy'
+        inputs:
+          containerRegistryType: 'Container Registry'
+          action: 'Run an image'
+          imageName: 'jmhardison/firebasetools:latest'
+          volumes: |
+            $(build.sourcesDirectory)/extract:/opt/work
+          containerCommand: 'jekyll build --future'
+          detached: false
+          envVars: |
+            fb_ci_token=$(fb_ci_token)
+            fb_projectid=$(fb_projectid)
+            fb_releasemessage=$(Build.BuildId)
