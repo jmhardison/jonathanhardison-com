@@ -15,6 +15,8 @@ jobs:
   - job: BuildStage
     pool:
       name: 'Hosted Ubuntu 1604'
+    workspace:
+      clean: all
     steps:
     - task: Docker@0
       displayName: 'Run Jekyll'
@@ -43,6 +45,8 @@ jobs:
   - job: ReleaseStage
     pool:
       name: 'Hosted Ubuntu 1604'
+    workspace:
+      clean: all
     dependsOn: BuildStage
     condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/master')) #master
     variables:
@@ -51,11 +55,11 @@ jobs:
     - task: DownloadPipelineArtifact@0
       inputs:
         artifactName: 'zipfile'
-        targetPath: '$(Build.ArtifactStagingDirectory)'
+        targetPath: '$(build.sourcesDirectory)'
     - task: ExtractFiles@1
       inputs:
         archiveFilePatterns: '$(Build.BuildId).zip' 
-        destinationFolder: $(Build.ArtifactStagingDirectory)
+        destinationFolder: '$(build.sourcesDirectory)/extract'
         #cleanDestinationFolder: true 
     - task: Npm@1
       inputs:
@@ -64,4 +68,4 @@ jobs:
     - task: Bash@3
       inputs:
         script: 'firebase deploy --token $(fb_ci_token) --project $(fb_projectid) --message "Release: $(Build.BuildId)"'
-        workingDirectory: '$(Build.ArtifactStagingDirectory)'
+        workingDirectory: '$(Build.ArtifactStagingDirectory)/extract'
