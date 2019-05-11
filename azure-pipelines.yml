@@ -63,7 +63,6 @@ jobs:
         imageName: 'jhardison/firebasetools:latest'
         volumes: |
           $(build.sourcesDirectory)/extract:/opt/work
-        containerCommand: 'jekyll build --future'
         detached: false
         envVars: |
           fb_ci_token=$(fb_ci_token)
