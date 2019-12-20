@@ -6,4 +6,4 @@ gem 'html-proofer', '~> 3.7.6'
 gem 'jekyll'
 gem 'jekyll-paginate'
 # gem 'RedCloth'
-gem "rack-jekyll"
+gem "rack-jekyll", ">= 0.5.0"
