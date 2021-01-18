@@ -34,7 +34,7 @@ jobs:
           extended: false
 
       - name: Build
-        run: hugo --minify --verbose --enableGitInfo --forceSyncStatic --baseURL "/"
+        run: hugo --minify --verbose --enableGitInfo --forceSyncStatic --baseURL "https://jonathanhardison.com"
       
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
