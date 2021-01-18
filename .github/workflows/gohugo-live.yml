@@ -1,4 +1,4 @@
-name: Build-PublishToPreview-Hugo
+name: Build-PublishToLive-Hugo
 
 on:
   push:
