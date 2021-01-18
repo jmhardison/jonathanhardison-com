@@ -1,0 +1,136 @@
+baseURL       = "https://www.jonathanhardison.com/"
+languageCode  = "en-us"
+title         = "Jonathan Hardison"
+theme         = "hello-friend-ng"
+paginate      = 10
+rssLimit      = 10
+
+googleAnalytics = "UA-73380426-1"
+disqusShortname = "jonathanhardison"
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+canonifyURLs = true
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+publishDir   = "_site"
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  themeColor = "#252627"
+
+  colorScheme = "dark"
+  defaultTheme = "dark"
+
+  # Subtitle for home
+  homeSubtitle = "Aspirational something something..."
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you linke
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "Personal Blog of Jonathan Hardison"
+  keywords = "homepage, blog"
+  images = [""]
+
+  # Custom footer 
+  # If you want, you can easily override the default footer with your own content. 
+  #
+  footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+  footerRight = "Made with &#10084;"
+
+
+#[taxonomies]
+#    category = "blog"
+#    tag      = "tags"
+#    series   = "series"
+
+ # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/jhardison"
+
+  [[params.social]]
+    name = "keybase"
+    url  = "https://keybase.io/jhardison"
+
+  [[params.social]]
+    name = "docker"
+    url  = "https://hub.docker.com/u/jhardison"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://www.github.com/jmhardison"
+
+  [[params.social]]
+    name = "gitlab"
+    url  = "https://www.gitlab.com/jmhardison"  
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/jonathanhardison/"
+
+  [[params.social]]
+    name = "leetcode"
+    url  = "https://leetcode.com/jhardison"
+
+  [[params.social]]
+    name = "dev"
+    url  = "https://dev.to/jmhardison"
+
+  [params.portrait]
+    path     = "/images/profile.jpg"
+    alt      = "Portrait"
+    maxWidth = "250px"
+    
+[languages]
+  [languages.en]
+    title = "Jonathan Hardison"
+    subtitle = "Aspirational something something..."
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "~/home$"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+
+
+   [[menu.main]]
+    identifier = "resume"
+    name       = "Resume"
+    url        = "/resume"
+
+   [[menu.main]]
+    identifier = "portfolio"
+    name       = "Portfolio"
+    url        = "https://jmhardison.github.io/Portfolio/"
