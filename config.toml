@@ -98,7 +98,7 @@ publishDir   = "_site"
     url  = "https://dev.to/jmhardison"
 
   [params.portrait]
-    path     = "/images/profile.jpg"
+    path     = "/images/profile.PNG"
     alt      = "Portrait"
     maxWidth = "250px"
     
@@ -128,7 +128,7 @@ publishDir   = "_site"
    [[menu.main]]
     identifier = "resume"
     name       = "Resume"
-    url        = "/resume"
+    url        = "https://resume.jonathanhardison.com"
 
    [[menu.main]]
     identifier = "portfolio"
