@@ -70,6 +70,10 @@ publishDir   = "_site"
     url  = "https://twitter.com/jhardison"
 
   [[params.social]]
+  name = "mastodon"
+  url  = "https://mastodon.social/@jhardison"
+
+  [[params.social]]
     name = "keybase"
     url  = "https://keybase.io/jhardison"
 
@@ -83,7 +87,7 @@ publishDir   = "_site"
 
   [[params.social]]
     name = "gitlab"
-    url  = "https://www.gitlab.com/jmhardison"  
+    url  = "https://www.gitlab.com/jmhardison"
 
   [[params.social]]
     name = "linkedin"
