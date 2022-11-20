@@ -73,9 +73,10 @@ publishDir   = "_site"
   name = "mastodon"
   url  = "https://mastodon.social/@jhardison"
 
-  [[params.social]]
-    name = "keyoxide"
-    url = "https://keyoxide.org/62056042A03A3659ECC25C275CB770BF020E6336"
+#  [[params.social]]
+#    name = "keyoxide"
+#    url = "https://keyoxide.org/62056042A03A3659ECC25C275CB770BF020E6336"
+
   [[params.social]]
     name = "keybase"
     url  = "https://keybase.io/jhardison"
