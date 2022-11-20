@@ -65,13 +65,17 @@ publishDir   = "_site"
 #    series   = "series"
 
  # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/jhardison"
+ # [[params.social]]
+ #   name = "twitter"
+ #   url  = "https://twitter.com/jhardison"
 
   [[params.social]]
   name = "mastodon"
   url  = "https://mastodon.social/@jhardison"
+
+#  [[params.social]]
+#    name = "keyoxide"
+#    url = "https://keyoxide.org/62056042A03A3659ECC25C275CB770BF020E6336"
 
   [[params.social]]
     name = "keybase"
