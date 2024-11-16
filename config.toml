@@ -69,9 +69,13 @@ publishDir   = "_site"
  #   name = "twitter"
  #   url  = "https://twitter.com/jhardison"
 
+ # [[params.social]]
+ # name = "mastodon"
+ # url  = "https://mastodon.social/@jhardison"
+
   [[params.social]]
-  name = "mastodon"
-  url  = "https://mastodon.social/@jhardison"
+  name = "bluesky"
+  url  = "https://bsky.app/profile/jonathanhardison.com"
 
 #  [[params.social]]
 #    name = "keyoxide"
