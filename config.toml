@@ -69,9 +69,13 @@ publishDir   = "_site"
  #   name = "twitter"
  #   url  = "https://twitter.com/jhardison"
 
+ # [[params.social]]
+ # name = "mastodon"
+ # url  = "https://mastodon.social/@jhardison"
+
   [[params.social]]
-  name = "mastodon"
-  url  = "https://mastodon.social/@jhardison"
+  name = "bluesky"
+  url  = "https://bsky.app/profile/jonathanhardison.com"
 
 #  [[params.social]]
 #    name = "keyoxide"
@@ -97,13 +101,13 @@ publishDir   = "_site"
     name = "linkedin"
     url  = "https://www.linkedin.com/in/jonathanhardison/"
 
-  [[params.social]]
-    name = "leetcode"
-    url  = "https://leetcode.com/jhardison"
+ # [[params.social]]
+ #   name = "leetcode"
+ #   url  = "https://leetcode.com/jhardison"
 
-  [[params.social]]
-    name = "dev"
-    url  = "https://dev.to/jmhardison"
+ # [[params.social]]
+ #   name = "dev"
+ #   url  = "https://dev.to/jmhardison"
 
   [params.portrait]
     path     = "/images/profile.PNG"

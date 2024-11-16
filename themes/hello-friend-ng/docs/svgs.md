@@ -72,6 +72,7 @@
 - [tumblr](https://simpleicons.org/?q=tumblr)
 - [twitch](https://simpleicons.org/?q=twitch)
 - [twitter](https://simpleicons.org/?q=twitter)
+- [bluesky](https://simpleicons.org/?q=bluesky)
 - [unsplash](https://simpleicons.org/?q=unsplash)
 - [whatsapp](https://simpleicons.org/?q=whatsapp)
 - [xampp](https://simpleicons.org/?q=xampp)
