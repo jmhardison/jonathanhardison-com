@@ -101,13 +101,13 @@ publishDir   = "_site"
     name = "linkedin"
     url  = "https://www.linkedin.com/in/jonathanhardison/"
 
-  [[params.social]]
-    name = "leetcode"
-    url  = "https://leetcode.com/jhardison"
+ # [[params.social]]
+ #   name = "leetcode"
+ #   url  = "https://leetcode.com/jhardison"
 
-  [[params.social]]
-    name = "dev"
-    url  = "https://dev.to/jmhardison"
+ # [[params.social]]
+ #   name = "dev"
+ #   url  = "https://dev.to/jmhardison"
 
   [params.portrait]
     path     = "/images/profile.PNG"
