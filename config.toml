@@ -1,8 +1,7 @@
 baseURL       = "/"
 languageCode  = "en-us"
 title         = "Jonathan Hardison"
-theme         = "hello-friend-ng"
-paginate      = 10
+theme         = "hugo-theme-hello-friend-ng-master"
 rssLimit      = 10
 
 googleAnalytics = "UA-73380426-1"
@@ -52,8 +51,8 @@ publishDir   = "_site"
   keywords = "homepage, blog"
   images = [""]
 
-  # Custom footer 
-  # If you want, you can easily override the default footer with your own content. 
+  # Custom footer
+  # If you want, you can easily override the default footer with your own content.
   #
   footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
   footerRight = "Made with &#10084;"
@@ -113,7 +112,7 @@ publishDir   = "_site"
     path     = "/images/profile.PNG"
     alt      = "Portrait"
     maxWidth = "250px"
-    
+
 [languages]
   [languages.en]
     title = "Jonathan Hardison"
@@ -122,6 +121,8 @@ publishDir   = "_site"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
+    [languages.en.pagination]
+      pagerSize = 5
     [languages.en.params.logo]
       logoText = "~/home$"
       logoHomeLink = "/"
